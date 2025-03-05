@@ -11616,7 +11616,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912c75ba74fe65548
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://drive.google.com/file/d/1YlSnUYDnkg48jbf3ro4LABWDbbSlnpz9/view?usp=sharing" group-title="SPORTS FHD NO EPG",
 
 
-#EXTM3U billed-msg="SILA BELI ID DI SHOPEE ZAYANZACKTV "
+#EXTM3U billed-msg="HAPPY WATCHING"
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml," refresh="1440"
 
