@@ -96,9 +96,9 @@ v2
 #EXTM3U
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Malaysia",
 
-#EXTINF:-1 tvg-id="" tvg-name="119 Ria" tvg-logo="https://i.ibb.co/SDHBBj0N/ria.png" group-title="Malaysia",119 Ria
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="119 Ria" tvg-logo="https://i.ibb.co/SDHBBj0N/ria.png" group-title="Malaysia",119 Ria
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2678.ts
-#EXTINF:-1 tvg-id="" tvg-name="118 Prima" tvg-logo="https://i.ibb.co/zhTgKXmt/prima.png" group-title="Malaysia",118 Prima
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="118 Prima" tvg-logo="https://i.ibb.co/zhTgKXmt/prima.png" group-title="Malaysia",118 Prima
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
 
   
