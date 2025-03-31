@@ -176,4 +176,32 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=1
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1664a802cfd2185db4f2ca62abe2428b:5b81f567da417c6a4e28c56329d433bd
+#EXTINF:-1 tvg-id="473.Raya-Raya" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="Movies", ROCK Entertainment
+https://rocket-tv.online/Raya-Raya/rockent.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8050fdf8b0430156cd9070635401ecb4:ce8e3123ba3ba905318a9371d0d56ed0
+#EXTINF:-1 tvg-id="474.Raya-Raya" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="Movies", ROCK Action
+https://rocket-tv.online/Raya-Raya/rockaction.mpd
+
+##############################Raya-RayaTV##############################
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1664a802cfd2185db4f2ca62abe2428b:5b81f567da417c6a4e28c56329d433bd
+#EXTINF:-1 tvg-id="473.Raya-Raya" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="Movies", ROCK Entertainment
+https://rocket-tv.online/Raya-Raya/rockent.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8050fdf8b0430156cd9070635401ecb4:ce8e3123ba3ba905318a9371d0d56ed0
+#EXTINF:-1 tvg-id="474.Raya-Raya" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="Movies", ROCK Action
+https://rocket-tv.online/Raya-Raya/rockaction.mpd
+
+##############################Raya-RayaTV##############################
+
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" vod_library="https://hangit69.blogspot.com/p/aotg-movie.html" refresh="3600"
