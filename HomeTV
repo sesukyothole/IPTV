@@ -3321,46 +3321,6 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/85501
 #EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="▶ First" group-logo="" tvg-logo="https://get.perfecttv.net/first/thekiller2024.jpg", 959-The Killer 2024
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2a954abd-ddff-5491-80c3-983a134a0d21/default_primary.mpd
 
-############# Bidaah VIU ######################3
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/listviu2.jpg" group-title="● Series VIU", 1-Listing VIU
-https://get.perfecttv.net
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/bidaah2.jpg" group-title="● Series VIU", 98-Ep01 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234373&quality=s240p&product_id=2575407&lang=ms
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166235047/1166236637/ae5521195de6d268b245e2b1000f23222d6607ca" group-title="● Series VIU", 98-Ep02 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166235047&quality=s240p&product_id=2577390&lang=ms
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166235203/1166236638/93a0cfdeab77136883e4b1aa5295a28f7dffe37b" group-title="● Series VIU", 98-Ep03 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166235203&quality=s240p&product_id=2579051&lang=ms
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/2189729055/3827dd3add44cef35ffee2849d51dc63b6c48c60" group-title="● Series VIU", 98-Ep04 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166236137&quality=s240p&product_id=2583796&lang=ms
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166235878/1166236641/2880eb17183ea5c8448ade8c2c729552bd9636f5" group-title="● Series VIU", 98-Ep05 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166235878&quality=s240p&product_id=2581092&lang=ms
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/1610311800/78d9179999c23352daeb096a00a260b3904320e8" group-title="● Series VIU", 98-Ep06 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166238749&quality=s240p&product_id=2592781&lang=ms
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166239376/1166239809/65f1c28a74bc170af2e83d8c41baf3de6bc4477a" group-title="● Series VIU", 98-Ep07 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166239376&quality=s240p&product_id=2595042&lang=ms
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166239476/1166239814/feea0a091b8c87cfc0395f26ce724b28faff5440" group-title="● Series VIU", 98-Ep08 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166239476&quality=s240p&product_id=2595496&lang=ms
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166239387/1166240184/4b040caf2c112206f7c8586a6919daa3c750aa86" group-title="● Series VIU", 98-Ep09 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166239387&quality=s240p&product_id=2595076&lang=ms
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166239442/1166240843/ddc88535e1425e997ad0e3d2a4ac058cbaa5ee85" group-title="● Series VIU", 98-Ep10 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166239442&quality=s240p&product_id=2595277&lang=ms
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166239452/1166241077/ce182af4816b6575feac93555e5d43606ab031fd" group-title="● Series VIU", 98-Ep11 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166239452&quality=s240p&product_id=2595299&lang=ms
-
-#EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166240093/1166240186/3bf61ecdbf0865e9b8bd44365a59595c8d560de6" group-title="● Series VIU", 98-Ep12 Bidaah
-https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166240093&quality=s240p&product_id=2597436&lang=ms
 
 
 
@@ -6221,20 +6181,6 @@ https://get.perfecttv.net/get_tonton.m3u8?username=vip_3klp0es8&password=wg3piwE
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
 #EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://perfecttv.net/logo/awesome.png" group-title="MALAYSIA",109 Awesome
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA",Indosiar
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trans7" tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="INDONESIA",Trans7
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trans Tv" tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="INDONESIA",Trans Tv
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
-#EXTINF:-1 tvg-id="" tvg-name="138 Thrill" tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="MOVIES",138 Thrill
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2703.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="INDONESIA",RCTI
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
-#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDONESIA",MNCTV
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="INDONESIA",SCTV
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 #EXTINF:-1 tvg-id="" tvg-name="809 Astro Grandstand" tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="⚽︎ SPORTS",809 Astro Grandstand
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2698.ts
 #EXTINF:-1 tvg-id="" tvg-name="149 Galaxy Premium" tvg-logo="https://perfecttv.net/logo/galaxypremium.png" group-title="MOVIES",149 Galaxy Premium
