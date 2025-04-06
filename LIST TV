@@ -712,12 +712,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroTutorTV_2024.png" group-title="Kids",Tutor TV
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
- 
-#EXTINF:-1 tvg-id="612" ch-number=" " tvg-name="Dreamworks" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png" group-title="Kids",612 Dreamworks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"}
