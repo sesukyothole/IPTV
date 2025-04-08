@@ -1,5 +1,4 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"}
-#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
-#EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="FreeView",TV1
-https://linears-playback.astro.com.my/vsg/41hmgTFjAQ5CRacQJZRWZE_3EPd58SsmJ4WRs07LqOBec /dash-wv/jitp-linearwm/2700/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLGdDuU.jpg" group-title="MALAYSIA CHANNEL",ASTRO PRIMA
+#EXTVLCOPT:https://www.ustream.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/medhigh.m3u8
