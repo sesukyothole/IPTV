@@ -67,7 +67,7 @@ https://l16.dp.sooka.my/1004/linear/index.mpd
 #EXTINF:-1 tvg-id="105.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-title="Malaysia",Prima
 https://l18.dp.sooka.my/1000/linear/index.mpd
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.imgur.com/2M7Exk3.jpg",Citra
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",Citra
 #EXTVLCOPT:http-referrer=https://myvi.servebeer.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
