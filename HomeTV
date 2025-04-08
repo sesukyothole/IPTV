@@ -1,4 +1,3 @@
-- DONZ TELEVISION PREMIUM -
 #EXTM3U
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" vod_library="https://hangit69.blogspot.com/p/aotg-movie.html" refresh="3600"
@@ -6,10 +5,10 @@
 ##### MALAYSIA CHANNEL #####
 
   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/llHNuYc.jpg" group-title="MALAYSIA CHANNEL",ASTRO AWANI
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="MALAYSIA CHANNEL",ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-logo="https://i.imgur.com/2M7Exk3.jpg",ASTRO CITRA
+#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",ASTRO CITRA
 #EXTVLCOPT:http-referrer=https://myvi.servebeer.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
@@ -21,81 +20,81 @@ http://extraott.com:900/live/3162523972/3791698850/400200335.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
 
-#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-logo="https://i.imgur.com/x8VDSok.jpg",ASTRO RIA
+#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",ASTRO RIA
 #EXTVLCOPT:http-user-agent=android-R+
 http://extraott.com:900/live/3162523972/3791698850/191867.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLGdDuU.jpg" group-title="MALAYSIA CHANNEL",ASTRO PRIMA
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-title="MALAYSIA CHANNEL",ASTRO PRIMA
 #EXTVLCOPT:http-user-agent=android-R+
 http://www.geocities.ws/wahyuiptv/AstroPrima.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eh7UcTx.jpg" group-title="MALAYSIA CHANNEL",ASTRO AURA
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png" group-title="MALAYSIA CHANNEL",ASTRO AURA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://extraott.com:900/live/3162523972/3791698850/191858.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-logo="https://i.imgur.com/PMFkcv5.jpg",ASTRO RANIA
+#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",ASTRO RANIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://extraott.com:900/live/3162523972/3791698850/191866.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nSAyEhE.jpg" group-title="MALAYSIA CHANNEL", ASTRO SENSASI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png" group-title="MALAYSIA CHANNEL", ASTRO SENSASI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Sensasi.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4tC7vx8.jpg" group-title="MALAYSIA CHANNEL",ASTRO OASIS
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" group-title="MALAYSIA CHANNEL",ASTRO OASIS
 #https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/OasisHD.m3u8
 http://extraott.com:900/live/3162523972/3791698850/191864.m3u8
   
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO VELLITHIRAI HD" tvg-logo="https://i.imgur.com/deb3c8f.jpg" group-title="MALAYSIA CHANNEL", ASTRO VAANAVIL HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO VELLITHIRAI HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVellithirai_2024.png" group-title="MALAYSIA CHANNEL", ASTRO VAANAVIL HD
 http://extraott.com:900/live/3162523972/3791698850/12305.m3u8
   
-#EXTINF:-1 tvg-id="astrotviq.my" tvg-name="MY| IQIYI HD" tvg-logo="https://i.imgur.com/87SD2Pm.jpg" group-title="MALAYSIA CHANNEL",ASTRO TVIQ HD
+#EXTINF:-1 tvg-id="astrotviq.my" tvg-name="MY| IQIYI HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f349927-09a9-45f9-a58c-2e09e20c82f3/dipdlg3-3616900f-0a9e-43d6-9e97-d9cdd120666d.png/v1/fill/w_1269,h_629/astro_tviq_logo__2025__by_astrologo2003_dipdlg3-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjM1IiwicGF0aCI6IlwvZlwvMWYzNDk5MjctMDlhOS00NWY5LWE1OGMtMmUwOWUyMGM4MmYzXC9kaXBkbGczLTM2MTY5MDBmLTBhOWUtNDNkNi05ZTk3LWQ5Y2RkMTIwNjY2ZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rZ87-lV4w-GBlvJ_UbpqjMQzVLbW_sFmyiq7tmwdh5Yg" group-title="MALAYSIA CHANNEL",ASTRO TVIQ HD
 http://extraott.com:900/live/3162523972/3791698850/191950.m3u8
   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JraRw5S.jpg" group-title="MALAYSIA CHANNEL", ASTRO BOO
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="MALAYSIA CHANNEL", ASTRO BOO
 https://dl.dropboxusercontent.com/scl/fi/978gyipggwk50syl2fldr/astro-boo.m3u8?rlkey=66yqwi2z1i5ltpgds3nn3w3ol
   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9pTJ2iE.jpg" group-title="MALAYSIA CHANNEL", ASTRO SHOWCASE
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="MALAYSIA CHANNEL", ASTRO SHOWCASE
 https://dl.dropboxusercontent.com/scl/fi/sakmawnzs78skkj8hk318/showcase.m3u8?rlkey=4q16tcvqqnwyvznmiq0yj7aav&st=zdklvla1
   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXuX5yE.jpg" group-title="MALAYSIA CHANNEL", ASTRO HUA HEE DAI
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png" group-title="MALAYSIA CHANNEL", ASTRO HUA HEE DAI
 https://dl.dropboxusercontent.com/scl/fi/tg57txnymhug7ma77jajm/ASTRO-HUA-HEE-DAI.m3u8?rlkey=vz7y7lzexg6kyktxkofxix82g
   
-#EXTINF: -1 tvg-logo="https://i.imgur.com/GpZxtSR.jpg" group-title="MALAYSIA CHANNEL", ASTRO FOOTBALL
+#EXTINF: -1 tvg-logo="ttp://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="MALAYSIA CHANNEL", ASTRO FOOTBALL
 https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3u8?rlkey=0fbixc4mgz8g0ur4sv3v8109g&st=fnrvosop
 
-#EXTINF:-1 tvg-id="tv1.my" tvg-name="MY| TV1 HD" tvg-logo="https://i.imgur.com/sApoxe1.jpg" group-title="MALAYSIA CHANNEL",TV1 HD
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="MY| TV1 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MALAYSIA CHANNEL",TV1 HD
 http://extraott.com:900/live/3162523972/3791698850/192001.m3u8
   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uzZOAnw.jpg" "" group-title="MALAYSIA CHANNEL",TV1 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" "" group-title="MALAYSIA CHANNEL",TV1 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8OkoH1d.jpg" "" group-title="MALAYSIA CHANNEL",TV2 HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" "" group-title="MALAYSIA CHANNEL",TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/py4ZVgQ.jpg" "" group-title="MALAYSIA CHANNEL",TV2
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" "" group-title="MALAYSIA CHANNEL",TV2
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-logo="https://i.imgur.com/Z1VOwze.jpg",TV3 HD
+#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png.jpg",TV3 HD
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://dl.dropboxusercontent.com/scl/fi/mvgox8pih5r5z1umzl3dz/tv3-my.m3u8?rlkey=qpw04miogrqykwjsda8ahsw8m
 
-#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-logo="https://i.imgur.com/VcfkyQO.jpg",TV3
+#EXTINF:-1 group-title="MALAYSIA CHANNEL" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
 #EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
 #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSi0mnh.jpg" group-title="MALAYSIA CHANNEL",TV6 
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png" group-title="MALAYSIA CHANNEL",TV6 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ug88y5L.jpg" group-title="MALAYSIA CHANNEL",8TV
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="MALAYSIA CHANNEL",8TV
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EQy1X86.jpg" group-title="MALAYSIA CHANNEL",TV9
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png" group-title="MALAYSIA CHANNEL",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
@@ -146,7 +145,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-#EXTINF:-1 tvg-id="JomNgaji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sooka_Jom_Ngaji.png" group-title="Sooka & Unifi TV",Jom Ngaji
+#EXTINF:-1 tvg-id="JomNgaji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sooka_Jom_Ngaji.png" group-title="MALAYSIA CHANNEL",Jom Ngaji
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
   
 #EXTINF:-1, group-title="MALAYSIA CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/uxjZpmm.jpg",LAWAK SENTRAL
