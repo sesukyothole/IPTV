@@ -268,7 +268,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
-#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="" ch-number="19" tvg-logo="https://get.perfecttv.net/logo/thrill.png",138 Thrill
+#EXTINF:-1 group-logo="" group-title="Movies" tvg-id="" ch-number="19" tvg-logo="https://i.imgur.com/Y282owj.png",138 Thrill
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/Thrill
