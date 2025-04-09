@@ -26,12 +26,12 @@ https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_servi
 #EXTINF:-1 tvg-id="149.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png" group-title="Malaysia",TV9
 https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311|referrer=https://watch.tonton.com.my/
 
-#EXTINF:-1 tvg-id="AstroCh100.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malaysia",TV Ikim 
+#EXTINF:-1 tvg-id="AstroCh100.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png" group-title="Malaysia",TV Ikim 
 #https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="Malaysia",110 Al-Hijrah
+#EXTINF:-1 tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png" group-title="Malaysia",110 Al-Hijrah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1744241901-d2714267653f415b8079eae15b623c76-0-28e6963707f6da8a1b714bdf16af8918&auth_key=1744241901-d2714267653f415b8079eae15b623c76-0-761c4220d14354e43c0fb7b50808df47
@@ -194,6 +194,39 @@ https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
+###################################################################################################################################################################
+#############################################  BRUNEI  #########################################################################################################
+###################################################################################################################################################################
+
+#EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
+
+
+#EXTINF:-1 group-title="Brunei" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Brunei" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+
 
 
 
@@ -224,6 +257,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZbDC2h2l8cNdnXt4Q4Hgu_r1rvhBOpmGLR8k9jUwmA&s" group-title="Entertainment",New K-Pop
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38=w240-h480" group-title="Entertainment",K-Pop TVPlay
+https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8|user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DRbqBkKBxosMW817-K66NdyobO9RwfxdpD18miEG-WEBeTyEqi7IVTTFgFI-nB7JasEk=w240-h480" group-title="Entertainment",MIC TV
+https://v2.siar.us/mic/live/playlist.m3u8
 
 
 
@@ -360,6 +402,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
 https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX TV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 
 
