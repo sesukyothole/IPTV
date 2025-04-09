@@ -648,10 +648,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 
 
 
-#EXTINF:-1 tvg-id="HITZ" tvg-name="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio",HITZ FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio",RADIO HITZ
 https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_ott.mpd
 
 #EXTINF:-1 tvg-id="MY" tvg-name="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="Radio",MY FM
