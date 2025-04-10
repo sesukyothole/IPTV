@@ -15,7 +15,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11-1080FHD.m3u8
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11-1080FHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/unifisport.png", 699 Unifi Sport
 #KODIPROP:inputstreamaddon=inputstream.adaptive
