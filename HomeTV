@@ -42,12 +42,11 @@ https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1744241901-d2714267
 #EXTVLCOPT:http-user-agent=android-R+
 http://extraott.com:900/live/3162523972/3791698850/191867.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"}
-#KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQwNjU3MjEsImlzcyI6IlZSIiwiZXhwIjoxNzQ0MTUxNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.cmNR8ZgatrNPYtzGe_I_2U57GvccAgIxzSonqVjUPc4"}
-#EXTINF:-1 tvg-id="105.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-title="Malaysia",Prima
-https://l18.dp.sooka.my/1000/linear/index.mpd
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="Malaysia" tvg-id="105.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" ,Prima
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows N$T 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124
+https://l18.dp.sooka.my/1000/linear/1000.mpd
 
 #EXTINF:-1 tvg-id="108.astro" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",Citra
 #EXTVLCOPT:http-referrer=https://myvi.servebeer.com/
