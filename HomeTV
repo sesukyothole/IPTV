@@ -593,7 +593,7 @@ https://streaming.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CNA
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" group-title="News" ,AL-JAZEERA CHANNEL
+#EXTINF:-1 tvg-id="8" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" group-title="News" ,AL-JAZEERA ENGLISH
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 
 #EXTINF:-1 tvg-id="633.unifi" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png" group-title="News",Parlimen Malaysia
@@ -839,29 +839,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="" tvg-name="RADIO KLASIK " tvg-logo="https://get.perfecttv.net/logo/klasik.png" group-title="Radio",RADIO KLASIK 
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4560.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO GEGAR" tvg-logo="https://get.perfecttv.net/logo/gegar.png" group-title="Radio",RADIO GEGAR
+#EXTINF:-1 tvg-id="" tvg-name="RADIO GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Radio",RADIO GEGAR
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4561.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO MIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mix_%282018%29.svg/1200px-Mix_%282018%29.svg.png" group-title="Radio",RADIO MIX
+#EXTINF:-1 tvg-id="" tvg-name="RADIO MIX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="Radio",RADIO MIX
 http://83.142.30.171/live/vip_3klp0es8/wg3piwEs/4562.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO FLY" tvg-logo="https://get.perfecttv.net/logo/fly.png" group-title="Radio",RADIO FLY
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4563.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HITZ" tvg-logo="https://perfecttv.net/logo/hitz.png" group-title="Radio",RADIO HITZ
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio",RADIO HITZ
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4564.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO SURIA" tvg-logo="https://get.perfecttv.net/logo/suria.png" group-title="Radio",RADIO SURIA
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4565.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HOT" tvg-logo="https://get.perfecttv.net/logo/hot.png" group-title="Radio",RADIO HOT
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4566.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO SINAR" tvg-logo="https://perfecttv.net/logo/sinar.png" group-title="Radio",RADIO SINAR
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SINAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio",RADIO SINAR
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4567.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ERA" tvg-logo="https://get.perfecttv.net/logo/era.png" group-title="Radio",RADIO ERA
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Radio",RADIO ERA
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4568.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO IKIM" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/ikim.png" group-title="Radio",RADIO IKIM
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4572.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO JOHOR" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/johor.png" group-title="Radio",RADIO JOHOR
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4573.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ASYIK" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="Radio",RADIO ASYIK
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ASYIK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/310_144.png" group-title="Radio",RADIO ASYIK
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4574.ts
 
 
