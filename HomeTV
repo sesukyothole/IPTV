@@ -179,17 +179,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Singapore",
 
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://iili.io/JmoSiGe.png" group-title="Singapore",Channel 5
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mediacorp_Channel_5_2023.svg" group-title="Singapore",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
  
-#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://iili.io/JmoSrjS.png" group-title="Singapore",Channel U
+#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/1200px-Mediacorp_Channel_U_2023.svg.png" group-title="Singapore",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
 https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
  
-#EXTINF:-1 tvg-id="Suria" tvg-logo="https://iili.io/JmoS4Z7.png" group-title="Singapore",Suria
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/250px-Mediacorp_Suria_2023.svg.png" group-title="Singapore",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
