@@ -48,6 +48,11 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_servi
 #http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="118" ch-number="118" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-logo="" group-title="Malaysia",Inspirasi 
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
+
 ++++++++++CHANNEL LIMITED++++++++++
 
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ0MTAxMDAsImlzcyI6IlZSIiwiZXhwIjoxNzQ0NDM4OTAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.Y3XV0IHWLIO5gPwDP5rKjcNqVkuV6mByiHOoilVbtYs"}
@@ -65,6 +70,12 @@ https://l16.dp.sooka.my/1004/linear/ria.mpd
 #KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}#EXTINF:-1 tvg-id="105.astro" group-title="Malaysia" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",Astro Prima
 #EXTINF:-1 tvg-id="105.astro" group-title="Malaysia" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",Astro Prima
  https://l18.dp.sooka.my/1000/linear/index.mpd
+
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="Malaysia" tvg-id="105.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" ,118 Prima FHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows N$T 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124
+#http://linears-playback.astro.com.my/vsg/41_EPZ2pLEswAX-EltDpCDXr2vPCEdj3yXml3GxSpQwOM=jzf1/dash-wv/jitp-linearwm/2700/default_primary.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ0NDI0ODIsImlzcyI6IlZSIiwiZXhwIjoxNzQ0NDk3MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.mGqHyLmjIGf8UjGF-gkJL6dF8Ibop1LDlPJUeF3BM0o
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"}
@@ -451,6 +462,10 @@ EXTINF:-1 tvg-id="NHKWorldPremium" ch-number="398" group-title="Korean" tvg-logo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
 
+#EXTINF:-1 group-title="Korean"  tvg-id="cjenm.kr" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/3/36/CJ_E%26M_logo.png/",CJ E&M
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+
 
 ###################################################################################################################################################################
 #############################################  SINGAPORE  #########################################################################################################
@@ -478,7 +493,15 @@ https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
- 
+#EXTINF:-1  tvg-id="Vasantham" group-title="Singapore" tvg-url="https://bit.ly/SingaporeEpg" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+#EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png" group-title="Singapore",Oktolidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
 ###################################################################################################################################################################
 #############################################  ENTERTAINMENT  #############################################@#######################################################
@@ -528,6 +551,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
+#EXTINF:-1 group-title="Entertainment" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Logo-Citra-Dangdut.png/revision/latest?cb=20190513103951",Citra Dangdut
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
 ##################################################################################################################################################################
 #####################################  MOVIES ################################################################################################################3#3##
