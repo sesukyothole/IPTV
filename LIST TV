@@ -414,14 +414,8 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 ############################################  KOREAN ##############################################################################################################
 ###################################################################################################################################################################
 
-
-
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png"  group-title="Korean",
-
-
-
-
-  
+ 
 #EXTINF:-1 tvg-id="tvNMovies" ch-number="416" tvg-name="tvN Movies HD" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",416 tvN Movies (MY)   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
@@ -459,16 +453,9 @@ EXTINF:-1 tvg-id="NHKWorldPremium" ch-number="398" group-title="Korean" tvg-logo
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
 
 
-
-
-
-
-
 ###################################################################################################################################################################
 #############################################  SINGAPORE  #########################################################################################################
 ###################################################################################################################################################################
-
-
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Singapore",
 
@@ -492,18 +479,11 @@ https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
-
-
-
-  
+ 
 
 ###################################################################################################################################################################
 #############################################  ENTERTAINMENT  #############################################@#######################################################
 ###################################################################################################################################################################
-
-
-
-
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Entertainment",
 
@@ -550,10 +530,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
 
-
-
-
-
 ##################################################################################################################################################################
 #####################################  MOVIES ################################################################################################################3#3##
 ###################################################################################################################################################################
@@ -561,14 +537,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Movies",
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="ShowcaseMovies.my" tvg-name="Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Showcase_%282024%29.png" group-title="Movies",413 Showcase Movies  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
   
 #EXTINF:-1 tvg-id="HITS" ch-number="706" tvg-name="HITS HD" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",706 Hits 
