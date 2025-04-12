@@ -386,6 +386,32 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
+##################### BRUNEI ###############################
+  
+#EXTINF:-1 tvg-id="CHN" ch-number=" " tvg-name="RTB Sukmaindera" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CHN" ch-number=" " tvg-name="RTB Aneka" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="BRUNEI", RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+  
+#EXTINF:-1 tvg-id="TV1" ch-number=" " tvg-name="Go Live" group-title="BRUNEI" tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png", Go Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8|referer=https://www.rtbgo.bn/  
+
+#EXTINF:-1 tvg-id="" group-title="BRUNEI" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BRUNEI" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BRUNEI" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BRUNEI" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BRUNEI" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+
 
 ###################################################################################################################################################################
 ############################################  KOREAN ##############################################################################################################
@@ -1354,6 +1380,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7x584+UKeHiM4YMc6o4YfQ", "kid":"7nOKZ3dtFH6V+V3yfmJrEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_ott.mpd
+
+
 
 
 #EXTM3U billed-msg="HAPPY WATCHING"
