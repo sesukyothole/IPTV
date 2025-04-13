@@ -1783,7 +1783,6 @@ https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/cubmu/drm/1920590310470725984198744639462718548768089602603381010356360544
 #EXTINF:-1 tvg-id="HorizonSports.us.id" tvg-name="Horizon Sports" tvg-logo="https://i0.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png?fit=1467%2C549&ssl=1" group-title="Sports",Horizon Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
 
 #EXTINF:-1 tvg-id="mjh-redbull-tv" tvg-name="Redbull TV" group-title="Sports" tvg-logo="https://i.ibb.co/zxvTqGK/download-5-modified-1.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
