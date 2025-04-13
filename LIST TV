@@ -172,17 +172,12 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 #EXTINF:-1 tvg-id="rtm_borak" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="Sooka, UnifiTV & RTMKLIK", RTM Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 
-
-
-
+#EXTINF:-1 tvg-id="153.rtmklik" tvg-logo="https://rtm-images.glueapi.io/250x0/live_channel/BTL2025.png" group-title="Sooka, UnifiTV & RTMKLIK", RTM Borak Tengah Lapar Masuk U (RTMKlik)
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=13669
 
 ###################################################################################################################################################################
 ###################################### INDIAN #####################################################################################################################
 ###################################################################################################################################################################
-
-
-
-
 
 
 
@@ -242,8 +237,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 #EXTINF:-1 tvg-id="222" ch-number=" " tvg-name="Colors Tamil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="Indian", 222 Colors Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
-  
-
   
 #EXTINF:-1 tvg-id="215" ch-number=" " tvg-name="Sun News" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",215  Sun News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -384,6 +377,42 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
+###################################################################################################################################################################
+#############################################  SINGAPORE  #########################################################################################################
+###################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Singapore",
+
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://iili.io/JmoSiGe.png" group-title="Singapore",Channel 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://iili.io/JmoSPn9.png" group-title="Singapore",Channel 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
+https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://iili.io/JmoSrjS.png" group-title="Singapore",Channel U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
+https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://iili.io/JmoS4Z7.png" group-title="Singapore",Suria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
+https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#EXTINF:-1  tvg-id="Vasantham" group-title="Singapore" tvg-url="https://bit.ly/SingaporeEpg" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+#EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png" group-title="Singapore",Oktolidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
 ##################### Brunei ###############################
   
 #EXTINF:-1 tvg-id="CHN" ch-number=" " tvg-name="RTB Sukmaindera" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Brunei",RTB Sukmaindera
@@ -458,41 +487,39 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
 
-###################################################################################################################################################################
-#############################################  SINGAPORE  #########################################################################################################
-###################################################################################################################################################################
+=======xiaomi tv======
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Singapore",
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Xioami TV+",
 
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://iili.io/JmoSiGe.png" group-title="Singapore",Channel 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
-https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
- 
-#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://iili.io/JmoSPn9.png" group-title="Singapore",Channel 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
-https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
- 
-#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://iili.io/JmoSrjS.png" group-title="Singapore",Channel U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
-https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
- 
-#EXTINF:-1 tvg-id="Suria" tvg-logo="https://iili.io/JmoS4Z7.png" group-title="Singapore",Suria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+#EXTINF:-1 tvg-id="40.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/df4c8eb65f7adc4dd647cd1b0b19332a.webp" group-title="Xioami TV+", 40 - CHRONO-TV-ENG (Xiaomi TV+)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9b78108c-605e-4499-a5e2-51beecdb29ca/manifest.m3u8
 
-#EXTINF:-1  tvg-id="Vasantham" group-title="Singapore" tvg-url="https://bit.ly/SingaporeEpg" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:-1 tvg-id="45.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/65b8c90adf89d968fa7c22c17f2fe1f4.webp" group-title="Xioami TV+", 45 - HOOP TV (Xiaomi TV+)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b66316fd-98db-4612-a615-c1414b9d0377/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
-#EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png" group-title="Singapore",Oktolidays
-https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+#EXTINF:-1 tvg-id="57.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/a2434557b15464d714c41f0f1a32696d.webp" group-title="Xioami TV+", 57 - SPACE SERIES (Xiaomi TV+)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1bed88fb-8ffb-48dd-8da7-a10364f5c2d5/manifest.m3u8
+
+#EXTINF:-1 tvg-id="59.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/a474643a3970a91ec9d3421710b60cea.webp" group-title="Xioami TV+", 59 - Cooking Panda Linear Channel (Xiaomi TV+)
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?app_name=MitvPlus&app_bundle=com.mitv.tvhome.mitvplus&app_store_url=https://play.google.com/store/apps/details?&ifa_type=aaid&device_id=c942e89b-9b5b-464d-8120-54f0335bbfb1&platform=androidtv&device_type=%5BDEVICE_TYPE%5D&player_height=720&player_width=1280&is_lat=0&us_privacy=1---&gdpr=0&consent=&device_language=en&partner=xiaomi_syndication&connection=wifi&language=en&device_height=720&device_width=1280&version=12.5&id=901&avod=1&slated_vod=0&streaming_format=hls&vid=a.m3u8
+
+#EXTINF:-1 tvg-id="69.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/e00e4614bba2cc49863344c8879890b2.webp" group-title="Xioami TV+", 69 - NAUTICAL CHANNEL (Xiaomi TV+)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a2739c13-1535-4498-a75b-cba31f699fea/index.m3u8
+
+#EXTINF:-1 tvg-id="72.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/439133c925cc7af9dbabdac69ac210cf.webp" group-title="Xioami TV+", 72 - ShadeTV (Xiaomi TV+)
+https://1c5fec19e84f40c697666f6104f38be9.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Xiaomi-eu_ShadeTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="95.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/38fe949568865e09266664f6e0e41b60.webp" group-title="Xioami TV+", 95 - NHRA TV (Xiaomi TV+)
+https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?app_name=MitvPlus&app_bundle=com.mitv.tvhome.mitvplus&app_store_url=https://play.google.com/store/apps/details?&ifa_type=aaid&device_id=c942e89b-9b5b-464d-8120-54f0335bbfb1&platform=androidtv&device_type=%5BDEVICE_TYPE%5D&player_height=720&player_width=1280&is_lat=0&us_privacy=1---&gdpr=0&consent=&device_language=en&partner=xiaomi_syndication&connection=wifi&language=en&device_height=720&device_width=1280&version=12.5&id=24&avod=1&slated_vod=0&streaming_format=hls&vid=a.m3u8
+
+#EXTINF:-1 tvg-id="101.mytv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png" group-title="MyTV", 101 - TV1 (MyTV)
+https://live.mana2.my/Tv1/index.m3u8?auth_key=1744576983-398da659e4d34bf698db686a92dcd34d-0-f7daefa2e82be7716b8b75d7eb4fde4c&token=1744576983-398da659e4d34bf698db686a92dcd34d-0-f7daefa2e82be7716b8b75d7eb4fde4c
+
+#EXTINF:-1 tvg-id="101.rtmklik" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png" group-title="RTMKlik", 101 - TV1 (RTMKlik)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 tvg-id="102.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/38e7656d2a384c3068a6563d1eddae84.webp" group-title="Xioami TV+", 102 - Party Tyme Karaoke (Xiaomi TV+)
+https://api-ott.partytymestreaming.com/loggingmediaurlpassthrough/a.m3u8?app_name=MitvPlus&app_bundle=com.mitv.tvhome.mitvplus&app_store_url=https://play.google.com/store/apps/details?&ifa_type=aaid&device_id=c942e89b-9b5b-464d-8120-54f0335bbfb1&platform=androidtv&device_type=%5BDEVICE_TYPE%5D&player_height=720&player_width=1280&is_lat=0&us_privacy=1---&gdpr=0&consent=&device_language=en&partner=xiaomi_syndication&connection=wifi&language=en&device_height=720&device_width=1280&version=12.5&id=17704&avod=1&slated_vod=0&streaming_format=hls&vid=a.m3u8
 
 ###################################################################################################################################################################
 #############################################  ENTERTAINMENT  #############################################@#######################################################
