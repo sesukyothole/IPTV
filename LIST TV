@@ -1,12 +1,7 @@
 Isi url dalam application ott ikut step tutorial. Bukan tekan link ni ya! :)
 
-#EXTINF:-1 group-title="Playlist ini adalah percuma sepenuhnya!" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-id="OTTMYID" ch-number="841" tvg-name="radio841" tvg-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png", ID OTT FREE
-https://files.catbox.moe/m7xyxw.mp4
-#EXTINF:-1 group-title="Playlist ini adalah percuma sepenuhnya!" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-id="OTTMYID" ch-number="841" tvg-name="radio841" tvg-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png", HAPPY WATCHING
-https://files.catbox.moe/m7xyxw.mp4
-
 #EXTM3U
-#EXTINF:-1 tvg-id="OTTMYID" tvg-name="Playlist ini adalah percuma sepenuhnya!" tvg-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="*Tidak untuk dijual beli.",Happy Watching
+#EXTINF:-1 tvg-id="OTTMYID" tvg-name="Playlist ini adalah percuma sepenuhnya!" tvg-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Tidak untuk dijual beli.",Happy Watching
 https://files.catbox.moe/m7xyxw.mp4
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Malaysia",
