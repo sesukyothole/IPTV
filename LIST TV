@@ -1,5 +1,7 @@
 Isi url dalam application ott ikut step tutorial. Bukan tekan link ni ya! :)
 
+#EXTINF:-1 group-title="Playlist ini adalah percuma sepenuhnya!" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-id="Minta refund sekiranya anda membeli!" ch-number="841" tvg-name="radio841" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", ID OTT FREE
+https://files.catbox.moe/m7xyxw.mp4
 
 #EXTM3U
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Malaysia",
@@ -50,7 +52,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="118" ch-number="118" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-logo="" group-title="Malaysia",Inspirasi 
+#EXTINF:-1 tvg-id="118" ch-number="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png" group-logo="" group-title="Malaysia",Inspirasi 
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 
 ++++++++++CHANNEL LIMITED++++++++++
