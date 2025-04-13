@@ -1,6 +1,10 @@
 Isi url dalam application ott ikut step tutorial. Bukan tekan link ni ya! :)
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="package" tvg-name="Playlist ini adalah percuma sepenuhnya!" tvg-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Tidak untuk dijual beli.",Happy Watching
+https://files.catbox.moe/m7xyxw.mp4
+
 #EXTINF:-1 tvg-id="OTTMYID" tvg-name="Playlist ini adalah percuma sepenuhnya!" tvg-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Tidak untuk dijual beli.",Happy Watching
 https://files.catbox.moe/m7xyxw.mp4
 
