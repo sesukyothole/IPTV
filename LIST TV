@@ -512,12 +512,6 @@ https://1c5fec19e84f40c697666f6104f38be9.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="95.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/38fe949568865e09266664f6e0e41b60.webp" group-title="Xioami TV+", 95 - NHRA TV (Xiaomi TV+)
 https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?app_name=MitvPlus&app_bundle=com.mitv.tvhome.mitvplus&app_store_url=https://play.google.com/store/apps/details?&ifa_type=aaid&device_id=c942e89b-9b5b-464d-8120-54f0335bbfb1&platform=androidtv&device_type=%5BDEVICE_TYPE%5D&player_height=720&player_width=1280&is_lat=0&us_privacy=1---&gdpr=0&consent=&device_language=en&partner=xiaomi_syndication&connection=wifi&language=en&device_height=720&device_width=1280&version=12.5&id=24&avod=1&slated_vod=0&streaming_format=hls&vid=a.m3u8
 
-#EXTINF:-1 tvg-id="101.mytv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png" group-title="MyTV", 101 - TV1 (MyTV)
-https://live.mana2.my/Tv1/index.m3u8?auth_key=1744576983-398da659e4d34bf698db686a92dcd34d-0-f7daefa2e82be7716b8b75d7eb4fde4c&token=1744576983-398da659e4d34bf698db686a92dcd34d-0-f7daefa2e82be7716b8b75d7eb4fde4c
-
-#EXTINF:-1 tvg-id="101.rtmklik" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png" group-title="RTMKlik", 101 - TV1 (RTMKlik)
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-
 #EXTINF:-1 tvg-id="102.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/38e7656d2a384c3068a6563d1eddae84.webp" group-title="Xioami TV+", 102 - Party Tyme Karaoke (Xiaomi TV+)
 https://api-ott.partytymestreaming.com/loggingmediaurlpassthrough/a.m3u8?app_name=MitvPlus&app_bundle=com.mitv.tvhome.mitvplus&app_store_url=https://play.google.com/store/apps/details?&ifa_type=aaid&device_id=c942e89b-9b5b-464d-8120-54f0335bbfb1&platform=androidtv&device_type=%5BDEVICE_TYPE%5D&player_height=720&player_width=1280&is_lat=0&us_privacy=1---&gdpr=0&consent=&device_language=en&partner=xiaomi_syndication&connection=wifi&language=en&device_height=720&device_width=1280&version=12.5&id=17704&avod=1&slated_vod=0&streaming_format=hls&vid=a.m3u8
 
