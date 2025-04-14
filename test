@@ -1,8 +1,13 @@
 #EXTINF:-1 tvg-id="OTTMYID" tvg-name="Tidak boleh dijual beli." tvg-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Playlist ini adalah percuma sepenuhnya!",Not For Sale!
 https://drive.usercontent.google.com/download?id=1k0vSrua8nBqYCoHKFctBawATpt36YMOZ&export=download
 
+#EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="MALAYSIA",121 Citra
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn-profiles.tunein.com/s307749/images/logog.png?t=1" tvg-id="",ONE WORLD RADIO
-https://elitestreamid.xyz/scripts/youtubehlsvideoid.php?id=UL0PoqHnKOE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="Malaysia",Astro Citra 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
