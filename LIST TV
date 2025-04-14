@@ -629,6 +629,17 @@ https://elitestreamid.xyz/scripts/youtubehlsvideoid.php?id=UL0PoqHnKOE
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DRbqBkKBxosMW817-K66NdyobO9RwfxdpD18miEG-WEBeTyEqi7IVTTFgFI-nB7JasEk=w240-h480" group-title="Entertainment",MIC TV
 https://v2.siar.us/mic/live/playlist.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZbDC2h2l8cNdnXt4Q4Hgu_r1rvhBOpmGLR8k9jUwmA&s" group-title="Entertainment",New K-Pop
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38=w240-h480" group-title="Entertainment",K-Pop TVPlay
+https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8|user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+
 ##################################################################################################################################################################
 #####################################  MOVIES ################################################################################################################3#3##
 ###################################################################################################################################################################
