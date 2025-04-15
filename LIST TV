@@ -2173,10 +2173,9 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/maste
 ##### FOX DAN ASTRO SPORTS CHANNEL #####
 
 
-#EXTINF:-1 group-title="FOX DAN ASTRO SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pK67EmR.png",1.INFO-GABUNG GROUP
-https://dl.dropboxusercontent.com/scl/fi/loibzh31apysr3gtv0qm3/Gabung-GroupTele.mp4?rlkey=vfezlgwrcrz4oyv4puvtf5i0u&st=wkpofibh&dl=0
+#EXTINF:-1 group-title="FOX DAN ASTRO SPORTS CHANNEL" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-logo="https://i.imgur.com/pK67EmR.png" 
   
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 501 HD" tvg-logo="https://i.imgur.com/8K1DUJk.jpg" group-title="FOX DAN ASTRO SPORTS CHANNEL",FOX SPORTS 501 HD
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 501 HD" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-logo="https://i.imgur.com/8K1DUJk.jpg" group-title="FOX DAN ASTRO SPORTS CHANNEL",FOX SPORTS 501 HD
   
 http://extraott.com:900/live/3162523972/3791698850/42050.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 502 HD" tvg-logo="https://i.imgur.com/F2qKq33.jpg" group-title="FOX DAN ASTRO SPORTS CHANNEL",FOX SPORTS 502 HD
