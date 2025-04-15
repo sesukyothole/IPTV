@@ -536,89 +536,6 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
 
-=======xiaomi tv======
-
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Xioami TV+",
-
-#EXTINF:-1 tvg-id="40.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/df4c8eb65f7adc4dd647cd1b0b19332a.webp" group-title="Xioami TV+", 40 - CHRONO-TV-ENG (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9b78108c-605e-4499-a5e2-51beecdb29ca/manifest.m3u8
-
-#EXTINF:-1 tvg-id="45.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/65b8c90adf89d968fa7c22c17f2fe1f4.webp" group-title="Xioami TV+", 45 - HOOP TV (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b66316fd-98db-4612-a615-c1414b9d0377/master.m3u8
-
-#EXTINF:-1 tvg-id="57.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/a2434557b15464d714c41f0f1a32696d.webp" group-title="Xioami TV+", 57 - SPACE SERIES (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1bed88fb-8ffb-48dd-8da7-a10364f5c2d5/manifest.m3u8
-
-#EXTINF:-1 tvg-id="59.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/a474643a3970a91ec9d3421710b60cea.webp" group-title="Xioami TV+", 59 - Cooking Panda Linear Channel (Xiaomi TV+)
-https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?app_name=MitvPlus&app_bundle=com.mitv.tvhome.mitvplus&app_store_url=https://play.google.com/store/apps/details?&ifa_type=aaid&device_id=c942e89b-9b5b-464d-8120-54f0335bbfb1&platform=androidtv&device_type=%5BDEVICE_TYPE%5D&player_height=720&player_width=1280&is_lat=0&us_privacy=1---&gdpr=0&consent=&device_language=en&partner=xiaomi_syndication&connection=wifi&language=en&device_height=720&device_width=1280&version=12.5&id=901&avod=1&slated_vod=0&streaming_format=hls&vid=a.m3u8
-
-#EXTINF:-1 tvg-id="69.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/e00e4614bba2cc49863344c8879890b2.webp" group-title="Xioami TV+", 69 - NAUTICAL CHANNEL (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a2739c13-1535-4498-a75b-cba31f699fea/index.m3u8
-
-#EXTINF:-1 tvg-id="72.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/439133c925cc7af9dbabdac69ac210cf.webp" group-title="Xioami TV+", 72 - ShadeTV (Xiaomi TV+)
-https://1c5fec19e84f40c697666f6104f38be9.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Xiaomi-eu_ShadeTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="95.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/38fe949568865e09266664f6e0e41b60.webp" group-title="Xioami TV+", 95 - NHRA TV (Xiaomi TV+)
-https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?app_name=MitvPlus&app_bundle=com.mitv.tvhome.mitvplus&app_store_url=https://play.google.com/store/apps/details?&ifa_type=aaid&device_id=c942e89b-9b5b-464d-8120-54f0335bbfb1&platform=androidtv&device_type=%5BDEVICE_TYPE%5D&player_height=720&player_width=1280&is_lat=0&us_privacy=1---&gdpr=0&consent=&device_language=en&partner=xiaomi_syndication&connection=wifi&language=en&device_height=720&device_width=1280&version=12.5&id=24&avod=1&slated_vod=0&streaming_format=hls&vid=a.m3u8
-
-#EXTINF:-1 tvg-id="102.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/38e7656d2a384c3068a6563d1eddae84.webp" group-title="Xioami TV+", 102 - Party Tyme Karaoke (Xiaomi TV+)
-https://api-ott.partytymestreaming.com/loggingmediaurlpassthrough/a.m3u8?app_name=MitvPlus&app_bundle=com.mitv.tvhome.mitvplus&app_store_url=https://play.google.com/store/apps/details?&ifa_type=aaid&device_id=c942e89b-9b5b-464d-8120-54f0335bbfb1&platform=androidtv&device_type=%5BDEVICE_TYPE%5D&player_height=720&player_width=1280&is_lat=0&us_privacy=1---&gdpr=0&consent=&device_language=en&partner=xiaomi_syndication&connection=wifi&language=en&device_height=720&device_width=1280&version=12.5&id=17704&avod=1&slated_vod=0&streaming_format=hls&vid=a.m3u8
-
-#EXTINF:-1 tvg-id="103.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/0aac55735cef39d3aa93e3d35fe22e4a.webp" group-title="Xioami TV+", 103 - SKWAD (Xiaomi TV+)
-https://api-ott.sqadplay.com/loggingmediaurlpassthrough/a.m3u8?app_name=MitvPlus&app_bundle=com.mitv.tvhome.mitvplus&app_store_url=https://play.google.com/store/apps/details?&ifa_type=aaid&device_id=c942e89b-9b5b-464d-8120-54f0335bbfb1&platform=androidtv&device_type=%5BDEVICE_TYPE%5D&player_height=720&player_width=1280&is_lat=0&us_privacy=1---&gdpr=0&consent=&device_language=en&partner=xiaomi_syndication&connection=wifi&language=en&device_height=720&device_width=1280&version=12.5&id=261346&avod=1&slated_vod=0&streaming_format=hls&vid=a.m3u8
-
-#EXTINF:-1 tvg-id="204.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/b0a94be7cff29ae99ed8758fbbad6cfa.webp" group-title="Xioami TV+", 204 - Smurf TV (Xiaomi TV+)
-https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?app_name=MitvPlus&app_bundle=com.mitv.tvhome.mitvplus&app_store_url=https://play.google.com/store/apps/details?&ifa_type=aaid&device_id=c942e89b-9b5b-464d-8120-54f0335bbfb1&platform=androidtv&device_type=%5BDEVICE_TYPE%5D&player_height=720&player_width=1280&is_lat=0&us_privacy=1---&gdpr=0&consent=&device_language=en&partner=xiaomi_syndication&connection=wifi&language=en&device_height=720&device_width=1280&version=12.5&id=35&avod=1&slated_vod=0&streaming_format=hls&vid=a.m3u8
-
-#EXTINF:-1 tvg-id="325.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/a518b7d151da55c2fb2f1912ac1e3389.webp" group-title="Xioami TV+", 325 - HERITAGE-TOURISM-TV-ENG (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5cd5230-6c17-4ab7-99f3-b008f2b837c3/master.m3u8
-
-#EXTINF:-1 tvg-id="326.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/3a28fb152b4b3a5ed32d1e153b830ef2.webp" group-title="Xioami TV+", 326 - HERITAGETV + (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a40ff3f-02b7-4c4b-a053-9b795e1af231/manifest.m3u8
-
-#EXTINF:-1 tvg-id="328.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/ef3a9a9fddbd126c4727da412457e93f.webp" group-title="Xioami TV+", 328 - ESCAPE TV (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/48c5a651-b9ca-4484-aedf-48cba46b3463/master.m3u8
-
-#EXTINF:-1 tvg-id="436.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/a3d20c838eadc201b91dde82b7be6a0e.webp" group-title="Xioami TV+", 436 - KOZOOM-ENG (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4a4ee35d-60a3-4502-9f34-1704600c65f2/manifest.m3u8
-
-#EXTINF:-1 tvg-id="517.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/d93de6897c62d17cedcead4f005d9e1f.webp" group-title="Xioami TV+", 517 - LOVE 2 HATE (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7b6b622f-87f7-43d5-9823-7b35cba1114f/manifest.m3u8
-
-#EXTINF:-1 tvg-id="519.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/3a2bbf0c5e1da79036e36c912b8051e0.webp" group-title="Xioami TV+", 519 - Wildest Wish (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f3483458-76af-4850-bda6-8b1035233b42/manifest.m3u8
-
-#EXTINF:-1 tvg-id="552.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/40c84ca70d7e3ec1f49182487f43840f.webp" group-title="Xioami TV+", 552 - BEST DRAMA TV (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a14adf60-55d4-4344-92ed-f06b08219212/manifest.m3u8
-
-#EXTINF:-1 tvg-id="564.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/c9e517de94e9bf94cadedea22103a24e.webp" group-title="Xioami TV+", 564 - SPORT-FISHING-TV-ENG (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/46ae6aaa-6e45-43ec-8e7a-b1a2d21a69d6/manifest.m3u8
-
-#EXTINF:-1 tvg-id="601.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/81ebca36f9a82d708a4bb8b39f904174.webp" group-title="Xioami TV+", 601 - Charlie - Silent Movies (Xiaomi TV+)
-https://71c97a3c3a0b4de18fed7d6c48a4a6ac.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Xiaomi-eu_CharlieSilent/playlist.m3u8
-
-#EXTINF:-1 tvg-id="717.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/eab9f36549ca2a093ef5ab9ebf0baec3.webp" group-title="Xioami TV+", 717 - Nitro Circus (Xiaomi TV+)
-https://amg13231-amg13231c1-xiaomi-international-2911.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-xiaomiinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-id="719.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/8c12fcc33713922eeb6850aacfeb53e7.webp" group-title="Xioami TV+", 719 - OZ TV (Xiaomi TV+)
-https://amg13231-amg13231c3-xiaomi-international-2914.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-xiaomiinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-id="720.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/5736f1f71f7f82f1d2720b07293784ac.webp" group-title="Xioami TV+", 720 - Team Liquid (Xiaomi TV+)
-https://amg13231-amg13231c2-xiaomi-international-2913.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-xiaomiinternational/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="761.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/be199748f7392edafab8b6cffd8569cd.webp" group-title="Xioami TV+", 761 - WESHORT-ENG (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bf7acf1e-950b-4c35-8a44-fb256fbe752c/manifest.m3u8
-
-#EXTINF:-1 tvg-id="788.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/733e9f6b55887c06895e3e77ece17cb7.webp" group-title="Xioami TV+", 788 - Qwest TV (Xiaomi TV+)
-https://amg00447-qwesttv-amg00447c1-xiaomi-international-978.playouts.now.amagi.tv/playlist/amg00447-qwesttvfast-qwesttvlg-xiaomiinternational/playlist.m3u8
-
-#EXTINF:-1 tvg-id="789.mitvplus" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/10007/0/9ccef0f44ff1996b4a5ba7f677d064dd.webp" group-title="Xioami TV+", 789 - Whoa! That was Wild! (Xiaomi TV+)
-https://96392bf971c24d78be350d7af46087b3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Xiaomi-eu_WhoaThatWasWild/playlist.m3u8
-
-#EXTINF:-1 tvg-id="809.mitvplus" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/cf483774b924c6118623d6868fe5f09c.webp" group-title="Xioami TV+", 809 - HUNT-FISH-TV-ENG (Xiaomi TV+)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc8bac8d-f1e2-4bd3-868c-30fead7bc1e7/master.m3u8
-
 ###################################################################################################################################################################
 #############################################  ENTERTAINMENT  #############################################@#######################################################
 ###################################################################################################################################################################
@@ -715,7 +632,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://pbs.twimg.com/profile_images/425874658206810112/tHFn6-91_400x400.jpeg" group-title="MOVIES",152 Star Movies
+#EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://pbs.twimg.com/profile_images/425874658206810112/tHFn6-91_400x400.jpeg" group-title="Movies",152 Star Movies
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
   
 #EXTINF:-1 tvg-id="AXN" ch-number="701" tvg-name="AXN HD" tvg-logo="https://sledovanitv.cz/cache/logos256/axn.png" group-title="Movies",701 AXN 
