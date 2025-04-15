@@ -1,10 +1,10 @@
 #EXTINF:-1 tvg-id="OTTMYID" tvg-name="Tidak boleh dijual beli." tvg-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Playlist ini adalah percuma sepenuhnya!",Not For Sale!
 https://drive.usercontent.google.com/download?id=1k0vSrua8nBqYCoHKFctBawATpt36YMOZ&export=download
 
-#EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="MALAYSIA",121 Citra
+#EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="Malaysia",121 Citra
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts 
-#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-logo="https://get.perfecttv.net/logo/aec.png" tvg-id="AstroAEC",124 AEC
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=655b6df8085d4fe6b3f71c0f4288f98a:5f0d4251e05e0a3a661218169ee84181
-https://l04.dp.sooka.my/2400/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ1ODQzOTMsImlzcyI6IlZSIiwiZXhwIjoxNzQ0NjY5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.WvUHiNy4_vbMNCyr9-k6itEB-9s3v8McpLN42jKJoxc
+
+
+#EXTINF:-1 tvg-id="108.astro" ch-number="108" tvg-name="CITRA" group-title="Malaysia" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra
+#https://fcmp.short.gy/CitragroupOttNavi
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
