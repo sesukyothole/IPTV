@@ -405,10 +405,44 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
+#EXTINF:-1 group-title="Singapore" tvg-id="Local.Programming.Dummy.us" tvg-chno="1006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1200px-Mewatch_2023.svg.png",meWATCH 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 group-title="Singapore" tvg-id="Local.Programming.Dummy.us" tvg-chno="1007" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1200px-Mewatch_2023.svg.png",meWATCH 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.png" group-title="Singapore",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+  
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Singapore",Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Singapore",Mediacorp Entertainment Tamil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Singapore",Mediacorp Entertainment China
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
 #EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png" group-title="Singapore",Oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+  
+####################################### SINGAPORE RADIO ########################################
+                                                                                                                           
+#EXTINF:-1 tvg-logo="https://iili.io/JmSE4Mx.png" group-title="Singapore",(Radio) 987
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
+#EXTINF:-1 tvg-logo="https://iili.io/JmSErnj.png" group-title="Singapore",(Radio) Class 95
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://iili.io/JmSEscB.png" group-title="Singapore",(Radio) CNA 938
+https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac
+#EXTINF:-1 tvg-logo="https://iili.io/JmSE66Q.png" group-title="Singapore ",(Radio) Money FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
+#EXTINF:-1 tvg-logo="https://iili.io/JmSEUZb.png" group-title="Singapore",(Radio) Ria 89.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac                                                                                                                          
 
 ##################### Brunei ###############################
   
@@ -479,7 +513,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
 
-#EXTINF:-1 group-title="Korean"  tvg-id="cjenm.kr" tvg-logo="https://e7.pngegg.com/pngimages/47/999/png-clipart-cj-group-company-cj-e-m-south-korea-entertainment-gls-logo-company-text-thumbnail.png/",CJ E&M
+#EXTINF:-1 group-title="Korean"  tvg-id="cjenm.kr" tvg-logo="https://e7.pngegg.com/pngimages/47/999/png-clipart-cj-group-company-cj-e-m-south-korea-entertainment-gls-logo-company-text-thumbnail.png",CJ E&M
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
@@ -663,7 +697,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AXN" ch-number="701" tvg-name="AXN HD" tvg-logo="https://img.favpng.com/1/8/21/axn-television-show-reality-television-mystery-channel-inc-the-amazing-race-asia-5-png-favpng-46dbxWe3qqtNcQj5TPQ1jJ0UM.jpg" group-title="Movies",701 AXN 
+#EXTINF:-1 tvg-id="AXN" ch-number="701" tvg-name="AXN HD" tvg-logo="https://sledovanitv.cz/cache/logos256/axn.png" group-title="Movies",701 AXN 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -2002,8 +2036,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_ott.mpd
 
 #EXTINF:-1 tvg-id="MIX" tvg-name="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="Radio",MIX FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=14f020e638635a66792cc7955e4d2810:8e2be3777dd95fb09ce2a70cf099cf8a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ERA" tvg-name="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Radio",ERA FM
