@@ -694,7 +694,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
-#EXTINF:-1 tvg-id="WarnerTV" ch-number="712" tvg-name="Warner TV HD" group-title="Movies" tvg-logo="https://aqfadtv.xyz/images/entertainment.png",712 Warner TV
+#EXTINF:-1 tvg-id="WarnerTV" ch-number="712" tvg-name="Warner TV HD" group-title="Movies" tvg-logo="https://aqfadtv.xyz/logos/Warner TV.png",712 Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -976,7 +976,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 
-#EXTINF:-1, group-title="Kids" tvg-logo="https://i.ibb.co/q3BtDZfk/ms-word-icon-rainbow-dash-by-spikeslashrarity-d4a0366-fullview.png",Derpy TV
+#EXTINF:-1, group-title="Kids" tvg-logo="https://aqfadtv.xyz/logos/DerpyTV.png",Derpy TV
 https://streamer.derpy.tv/stream.m3u8
   
 #EXTINF:-1 tvg-id="NickJr" tvg-name"Nickelodeon Junior" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" ch-number="617",617 Nick Jr 
