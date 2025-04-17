@@ -2898,33 +2898,6 @@ https://stream.zeno.fm/fp6608emnkhvv
 #EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="988" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="721" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM 
-https://mediaprima.rastream.com/mediaprima-hotfm
-
-#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="721" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="722" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101
-https://mediaprima.rastream.com/mediaprima-koolfm
-
-#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="723" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101 (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Kool101.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="723" tvg-logo="https://aqfadtv.xyz/logos/FlyFM.png",Fly FM
-https://mediaprima.rastream.com/mediaprima-flyfm
-
-#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="724" tvg-logo="https://aqfadtv.xyz/logos/EightFM.png",Eight FM
-https://mediaprima.rastream.com/mediaprima-onefm
-
-#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="724" tvg-logo="https://aqfadtv.xyz/logos/EightFM.png",Eight FM (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM.png",Molek FM
-https://mediaprima.rastream.com/mediaprima-molekfm
-
-#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM.png",Molek FM (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
-
 #EXTINF:-1 group-title="Radio" tvg-id="HITZ" ch-number="852" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ
 https://stream.rcs.revma.com/488kt4sbv4uvv/6_1mojw4iqx19z402/playlist.m3u8
 
@@ -2945,9 +2918,6 @@ https://stream.rcs.revma.com/azatk0tbv4uvv/2_1wrxu5knsjful02/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-id="MELODY" ch-number="858" tvg-logo="https://aqfadtv.xyz/logos/Melody.png",MELODY
 https://stream.rcs.revma.com/2u1n6dtbv4uvv/9_rh2tjyr2i25y02/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="RAAGA" ch-number="859" tvg-logo="https://aqfadtv.xyz/logos/Raaga.png",RAAGA
-https://stream.rcs.revma.com/1ut6qwtbv4uvv/15_7ka4uz0l3tsv02/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-id="ROCK" ch-number="860" tvg-logo="https://aqfadtv.xyz/logos/SyokClassicRock2021.png",SYOK Classic Rock
 https://stream.rcs.revma.com/fk3507vbv4uvv/7_98mzyl3ga32402/playlist.m3u8
@@ -2976,50 +2946,11 @@ https://stream.rcs.revma.com/ywpe7mqb54uvv/5_1hyby6w6ghrnp02/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-id="KENYALANG" ch-number="868" tvg-logo="https://aqfadtv.xyz/logos/SyokKenyalang2021.png",SYOK Kenyalang
 https://stream.rcs.revma.com/qyg9zmvbv4uvv/11_1er2am7s2fmdo02/playlist.m3u8
 
-#EXTINF:-1 group-title="Radio" tvg-id="NASFM" ch-number="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
-https://aqfadtv.xyz/live/radio/rtmklik/nasionalfm
-
-#EXTINF:-1 group-title="Radio" tvg-id="VFM" ch-number="870" tvg-logo="https://i.postimg.cc/4dW9q6P1/Sabah-VFM-New.png",VFM
-https://aqfadtv.xyz/live/radio/rtmklik/sabahvfm
-
 #EXTINF:-1 group-title="Radio" tvg-id="WAIFM" ch-number="871" tvg-logo="https://i.postimg.cc/4yGS2T8c/Wai-FM-New.png",WAI FM IBAN
 https://aqfadtv.xyz/live/radio/rtmklik/waifm/iban
 
-#EXTINF:-1 group-title="Radio" tvg-id="WAIFMBK" ch-number="871" tvg-logo="https://i.postimg.cc/4yGS2T8c/Wai-FM-New.png",WAI FM BK
-https://aqfadtv.xyz/live/radio/rtmklik/waifm/bk
-
-#EXTINF:-1 group-title="Radio" tvg-id="TRAXXFM" ch-number="872" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png",TRAXX FM
-https://aqfadtv.xyz/live/radio/rtmklik/traxxfm
-
-#EXTINF:-1 group-title="Radio" tvg-id="MINNALFM" ch-number="873" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png",MINNAL FM
-https://aqfadtv.xyz/live/radio/rtmklik/minnalfm
-
-#EXTINF:-1 group-title="Radio" tvg-id="AIFM" ch-number="874" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png",AI FM
-https://aqfadtv.xyz/live/radio/rtmklik/aifm
-
-#EXTINF:-1 group-title="Radio" tvg-id="ASYIKFM" ch-number="875" tvg-logo="https://i.postimg.cc/rwd95Xd8/AsyikFM.png",ASYIK FM
-https://aqfadtv.xyz/live/radio/rtmklik/asyikfm
-
-#EXTINF:-1 group-title="Radio" tvg-id="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
-https://stream.rcs.revma.com/7ww2a4tbv4uvv/4_1eob49p9m5c3j02/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://aqfadtv.xyz/logos/GoXuan2022.png",GOXUAN
-https://stream.rcs.revma.com/xt9nhzsbv4uvv/14_1r3t5f7rpkk0a02/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="879" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416",ERA Sabah
-#https://stream.rcs.revma.com/4p3nqmmbv4uvv/9_fsu8jz0cy3y902/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="880" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png/revision/latest?cb=20211107023427",ERA Sarawak
-#https://stream.rcs.revma.com/bkqfqkrbv4uvv/10_1rtgy23ywv5oo02/playlist.m3u8
-
-#EXTINF:-1, group-title="Radio" ch-number="903" tvg-id="CHN" tvg-logo="https://aqfadtv.xyz/logos/IKIMFM2024.png",IKIM FM
-https://aqfadtv.xyz/live/radio/ikim
-
 #EXTINF:-1, group-title="Radio" ch-number="904" tvg-id="CHN" tvg-logo="https://bestfm.com.my/wp-content/uploads/2022/12/bestfm-logo-main-header-01.png",Best FM
 https://aqfadtv.xyz/live/radio/bestfm
-
-#EXTINF:-1, group-title="Radio" ch-number="905" tvg-id="CHN" tvg-logo="https://cityplusfm.my/wp-content/uploads/2022/07/logo_cityplus_white.png",CITYPlus
-https://aqfadtv.xyz/live/radio/cityplus
 
 #EXTINF:-1, group-title="Radio" ch-number="906" tvg-id="CHN" tvg-logo="https://aqfadtv.xyz/logos/BFM.png",BFM
 https://aqfadtv.xyz/live/radio/bfm
