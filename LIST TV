@@ -2847,9 +2847,6 @@ https://stream.rcs.revma.com/a425s9z711uvv/15_1355xbe0n2wpo02/playlist.m3u8
 #EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/RedRadio.png",Red Radio
 https://stream.rcs.revma.com/4u7wmmg811uvv/12_10f3s7rmyunpv02/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/Rakita.png",RAKITA
-https://aqfadtv.xyz/live/radio/rakita/index.aac
-
 #EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/Aforadio.png",Aforadio English
 https://stream.rcs.revma.com/8150ezy4bshvv/14_1vpibkbuvncvl02/playlist.m3u8
 
@@ -2897,39 +2894,6 @@ https://stream.zeno.fm/fp6608emnkhvv
 
 #EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="988" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
-
-#EXTINF:-1 group-title="Radio" tvg-id="HITZ" ch-number="852" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ
-https://stream.rcs.revma.com/488kt4sbv4uvv/6_1mojw4iqx19z402/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="MY" ch-number="853" tvg-logo="https://aqfadtv.xyz/logos/MY.png", MY
-https://stream.rcs.revma.com/hc3unrtbv4uvv/15_1sfel2abdklbe02/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="LITE" ch-number="854" tvg-logo="https://aqfadtv.xyz/logos/Lite.png",LITE
-https://stream.rcs.revma.com/bn4ex8sbv4uvv/16_1l1t2i5plewr902/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="MIX" ch-number="855" tvg-logo="https://aqfadtv.xyz/logos/Mix.png",MIX
-https://stream.rcs.revma.com/v5pq3htbv4uvv/8_cflp1oii6xz202/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="ERA" ch-number="856" tvg-logo="https://aqfadtv.xyz/logos/ERA.png",ERA
-#https://stream.rcs.revma.com/crec9cmbv4uvv/11_1vwy8485immuz02/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="SINAR" ch-number="857" tvg-logo="https://aqfadtv.xyz/logos/Sinar.png",SINAR
-https://stream.rcs.revma.com/azatk0tbv4uvv/2_1wrxu5knsjful02/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="MELODY" ch-number="858" tvg-logo="https://aqfadtv.xyz/logos/Melody.png",MELODY
-https://stream.rcs.revma.com/2u1n6dtbv4uvv/9_rh2tjyr2i25y02/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="ROCK" ch-number="860" tvg-logo="https://aqfadtv.xyz/logos/SyokClassicRock2021.png",SYOK Classic Rock
-https://stream.rcs.revma.com/fk3507vbv4uvv/7_98mzyl3ga32402/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="GOLD" ch-number="861" tvg-logo="https://aqfadtv.xyz/logos/SyokGold2021.png",SYOK Gold
-https://stream.rcs.revma.com/fxq2n9tbv4uvv/14_e4dpznqewfgp02/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="OPUS" ch-number="862" tvg-logo="https://aqfadtv.xyz/logos/SYOKOpus.png",SYOK Opus
-https://stream.rcs.revma.com/aqvp4yvbv4uvv/12_nxwqy4yb5raz02/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="GEGAR" ch-number="863" tvg-logo="https://aqfadtv.xyz/logos/THR Gegar (2025)_v1.png",THR Gegar
-https://stream.rcs.revma.com/cn0zcqsbv4uvv/13_1odpofglthd0902/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-id="INDIA" ch-number="864" tvg-logo="https://aqfadtv.xyz/logos/SyokIndiaBeat.png",SYOK India Beat
 https://stream.rcs.revma.com/hrcdg9ubv4uvv/14_1ixos7dqlup8202/playlist.m3u8
