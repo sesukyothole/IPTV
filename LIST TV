@@ -2822,29 +2822,11 @@ https://stream.rcs.revma.com/8150ezy4bshvv/14_1vpibkbuvncvl02/playlist.m3u8
 #EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/AforadioMandarin.png",Aforadio Mandarin
 https://stream.rcs.revma.com/7x3gv2y4bshvv/10_1n6fdxznj9w8u02/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/RadioMasti247.png",Radio Masti 24/7
-https://hls.rastream.com/astro-radiomasti-new
-
 #EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/MyxRadio.png",Myx Radio
 https://22243.live.streamtheworld.com/MYXFMAAC_48
 
-#EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/MOREnt.png",MOR Entertainment
-https://22273.live.streamtheworld.com/MORFM_S01AAC_48
-
-#EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/TeleRadyo_Serbisyo.png",TeleRadyo Serbisyo
-https://23733.live.streamtheworld.com/DZMMAAC_48
-
 #EXTINF:-1 tvg-id="CHN" group-title="Radio" ch-number="830" tvg-logo="https://files.catbox.moe/bpm43o.png",Radio TV
 https://stream.zeno.fm/8w68ftpayf9uv
-
-#EXTINF:-1 tvg-id="CHN" group-title="Radio" ch-number="831" tvg-logo="https://aqfadtv.xyz/logos/K-DAILY2024.png",K-DAILY
-https://stream.zeno.fm/v2gwghhbyf9uv
-
-#EXTINF:-1 tvg-id="CHN" group-title="Radio" ch-number="832" tvg-logo="https://aqfadtv.xyz/logos/HYPEZ2024.png",HYPEZ
-https://stream.zeno.fm/d6b1dwmbyf9uv
-
-#EXTINF:-1 tvg-id="CHN" group-title="Radio" ch-number="837" tvg-logo="https://aqfadtv.xyz/logos/RE_PLAY.png",RE_PLAY
-https://stream.zeno.fm/53fmpfngzchvv
 
 #EXTINF:-1 tvg-id="CHN" group-title="Radio" ch-number="833" tvg-logo="https://aqfadtv.xyz/logos/RE_PLAYTikTokHits.png",RE_PLAY TikTok Hits
 https://stream.zeno.fm/6cf3bsmbyf9uv
