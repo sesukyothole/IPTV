@@ -2646,9 +2646,6 @@ https://stream.rcs.revma.com/2u1n6dtbv4uvv/9_rh2tjyr2i25y02/playlist.m3u8
 #EXTINF:-1 tvg-id="RAAGA" tvg-name="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="Radio",RAAGA
 https://stream.rcs.revma.com/1ut6qwtbv4uvv/15_7ka4uz0l3tsv02/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ROCK" tvg-name="ROCK" ch-number="860" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" group-title="Radio",CLASSIC ROCK
-https://stream.rcs.revma.com/fk3507vbv4uvv/7_98mzyl3ga32402/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GOLD" tvg-name="GOLD" ch-number="861" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" group-title="Radio",GOLD
 https://stream.rcs.revma.com/fxq2n9tbv4uvv/14_e4dpznqewfgp02/playlist.m3u8
 
@@ -2716,16 +2713,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ZAYAN" tvg-name="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" group-title="Radio",ZAYAN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"isbT6tRhxcFJerJai9H2GQ", "kid":"+DZv2Gbg71ISaLU0RiA2EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_ott.mpd
+https://stream.rcs.revma.com/7ww2a4tbv4uvv/4_1eob49p9m5c3j02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOXUAN" tvg-name="GOXUAN" ch-number="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" group-title="Radio",GO XUAN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7x584+UKeHiM4YMc6o4YfQ", "kid":"7nOKZ3dtFH6V+V3yfmJrEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_ott.mpd
+https://stream.rcs.revma.com/xt9nhzsbv4uvv/14_1r3t5f7rpkk0a02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Class95" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/Class95.png",Class 95
 https://22903.live.streamtheworld.com/CLASS95_PREM.aac
