@@ -2834,7 +2834,7 @@ https://22273.live.streamtheworld.com/MORFM_S01AAC_48
 #EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/TeleRadyo_Serbisyo.png",TeleRadyo Serbisyo
 https://23733.live.streamtheworld.com/DZMMAAC_48
 
-#EXTINF:-1 tvg-id="CHN" group-title="Radio" ch-number="830" tvg-logo="https://aqfadtv.xyz/logos/AqFadRadio.png",AqFad Radio
+#EXTINF:-1 tvg-id="CHN" group-title="Radio" ch-number="830" tvg-logo="https://files.catbox.moe/rb1c64.png",Radio TV
 https://stream.zeno.fm/8w68ftpayf9uv
 
 #EXTINF:-1 tvg-id="CHN" group-title="Radio" ch-number="831" tvg-logo="https://aqfadtv.xyz/logos/K-DAILY2024.png",K-DAILY
@@ -2863,21 +2863,6 @@ https://stream.zeno.fm/fp6608emnkhvv
 
 #EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="988" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
-
-#EXTINF:-1 group-title="Radio" tvg-id="INDIA" ch-number="864" tvg-logo="https://aqfadtv.xyz/logos/SyokIndiaBeat.png",SYOK India Beat
-https://stream.rcs.revma.com/hrcdg9ubv4uvv/14_1ixos7dqlup8202/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="JAZZ" ch-number="865" tvg-logo="https://aqfadtv.xyz/logos/SyokJazz2021.png",SYOK Jazz
-https://stream.rcs.revma.com/c718dfvbv4uvv/11_1p06l1n43crn802/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="OSAI" ch-number="866" tvg-logo="https://aqfadtv.xyz/logos/SYOKOsai.png",SYOK Osai
-https://stream.rcs.revma.com/60s783vbv4uvv/12_1d63840ixqwb102/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="BAYU" ch-number="867" tvg-logo="https://aqfadtv.xyz/logos/SyokBayu2021.png",SYOK Bayu
-https://stream.rcs.revma.com/ywpe7mqb54uvv/5_1hyby6w6ghrnp02/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="KENYALANG" ch-number="868" tvg-logo="https://aqfadtv.xyz/logos/SyokKenyalang2021.png",SYOK Kenyalang
-https://stream.rcs.revma.com/qyg9zmvbv4uvv/11_1er2am7s2fmdo02/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-id="WAIFM" ch-number="871" tvg-logo="https://i.postimg.cc/4yGS2T8c/Wai-FM-New.png",WAI FM IBAN
 https://aqfadtv.xyz/live/radio/rtmklik/waifm/iban
