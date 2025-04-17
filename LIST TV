@@ -2623,105 +2623,55 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 #EXTINF:-1 tvg-id="HITZ" tvg-name="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio",HITZ FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_ott.mpd
+https://stream.rcs.revma.com/488kt4sbv4uvv/6_1mojw4iqx19z402/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MY" tvg-name="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="Radio",MY FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_ott.mpd
+https://stream.rcs.revma.com/hc3unrtbv4uvv/15_1sfel2abdklbe02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LITE" tvg-name="LITE" ch-number="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" group-title="Radio",LITE FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tZ1I5dpeNKHRe8tujMNiZw", "kid":"6Ks1BJHgUSgjWFnxJyJbEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_ott.mpd
+https://stream.rcs.revma.com/bn4ex8sbv4uvv/16_1l1t2i5plewr902/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MIX" tvg-name="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="Radio",MIX FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14f020e638635a66792cc7955e4d2810:8e2be3777dd95fb09ce2a70cf099cf8a
-https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_ott.mpd
+https://stream.rcs.revma.com/v5pq3htbv4uvv/8_cflp1oii6xz202/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ERA" tvg-name="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Radio",ERA FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVWfzBIFLZ5/zg+PZZK7oQ", "kid":"hSlCUcius3NonqoOqVh4EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_ott.mpd
+https://stream.rcs.revma.com/crec9cmbv4uvv/11_1vwy8485immuz02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SINAR" tvg-name="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio",SINAR FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_ott.mpd
+https://stream.rcs.revma.com/azatk0tbv4uvv/2_1wrxu5knsjful02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MELODY" tvg-name="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png" group-title="Radio",MELODY FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bfUsRrGTUi/odCCTjgKXWQ", "kid":"003ElwH5wiufILqrsnrUEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_ott.mpd
+https://stream.rcs.revma.com/2u1n6dtbv4uvv/9_rh2tjyr2i25y02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RAAGA" tvg-name="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="Radio",RAAGA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BYeQ+4hhPmpxAoqvoiWEAw", "kid":"jZum9isUpdVwayEAe8ITEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_ott.mpd
+https://stream.rcs.revma.com/1ut6qwtbv4uvv/15_7ka4uz0l3tsv02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ROCK" tvg-name="ROCK" ch-number="860" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" group-title="Radio",CLASSIC ROCK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oGTVj6SdZ2FLBSq5qSo3XA", "kid":"dDd/nep1RTmU9/b17bCOEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_ott.mpd
+https://stream.rcs.revma.com/fk3507vbv4uvv/7_98mzyl3ga32402/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOLD" tvg-name="GOLD" ch-number="861" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" group-title="Radio",GOLD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cVyEAdeCnJp8XWZZIsoT9g", "kid":"j5Ls30zRrFW8jHiPoZWGEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_ott.mpd
+https://stream.rcs.revma.com/fxq2n9tbv4uvv/14_e4dpznqewfgp02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OPUS" tvg-name="OPUS" ch-number="862" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" group-title="Radio",OPUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sLl8yh+eMRoJ0zJlyFog6A", "kid":"oU+aFEUKlgMrEG1O6BgTEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_ott.mpd
+https://stream.rcs.revma.com/aqvp4yvbv4uvv/12_nxwqy4yb5raz02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GEGAR" tvg-name="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Radio",GEGAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_ott.mpd
+https://stream.rcs.revma.com/cn0zcqsbv4uvv/13_1odpofglthd0902/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INDIA" tvg-name="INDIA" ch-number="864" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="Radio",INDIA BEAT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PoSxc+iZchD9JwtwKUkang", "kid":"K06HO8k+/5WbojLh+gFvEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_ott.mpd
+https://stream.rcs.revma.com/hrcdg9ubv4uvv/14_1ixos7dqlup8202/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JAZZ" tvg-name="JAZZ" ch-number="865" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" group-title="Radio",JAZZ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"soRWP83esHi1v+DvtoT/oQ", "kid":"G7q2ex+Vrpoy23OojDCBEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_ott.mpd
+https://stream.rcs.revma.com/c718dfvbv4uvv/11_1p06l1n43crn802/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OSAI" tvg-name="OSAI" ch-number="866" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" group-title="Radio",OSAI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"y4svIZDNhLYuaHb8xr8kvw", "kid":"CC5RY5jF6hXWuc2lciR8EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_ott.mpd
+https://stream.rcs.revma.com/60s783vbv4uvv/12_1d63840ixqwb102/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAYU" tvg-name="BAYU" ch-number="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="Radio",BAYU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9yw4BYGqEqAW6oh4nGecZw", "kid":"VRXU8iZk44bGL3zywWarEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_ott.mpd
+https://stream.rcs.revma.com/ywpe7mqb54uvv/5_1hyby6w6ghrnp02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KENYALANG" tvg-name="KENYALANG" ch-number="868" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png" group-title="Radio",KENYALANG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7zs6Ncey+e6wIqUknzzWA", "kid":"/dlpDENjHqxn2/sRptalEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_ott.mpd
+https://stream.rcs.revma.com/qyg9zmvbv4uvv/11_1er2am7s2fmdo02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NASFM" tvg-name="NASFM" ch-number="869" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png" group-title="Radio",NAS FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2812,9 +2762,6 @@ https://14033.live.streamtheworld.com/OLI968FM
 
 #EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Logo_world.png/revision/latest/scale-to-width-down/300?cb=20201220062855",KBS World Radio
 https://stream.rcs.revma.com/a425s9z711uvv/15_1355xbe0n2wpo02/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/RedRadio.png",Red Radio
-https://stream.rcs.revma.com/4u7wmmg811uvv/12_10f3s7rmyunpv02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/Aforadio.png",Aforadio English
 https://stream.rcs.revma.com/8150ezy4bshvv/14_1vpibkbuvncvl02/playlist.m3u8
