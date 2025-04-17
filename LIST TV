@@ -1698,37 +1698,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsJAOVJditt5bBGtzDW-N6y6f5dBcVLtdk9kl911lnSY9D4h5ATaFsAOHwYWsX-AHgeU7sQRPTsucN5idPfZC7iVRRTNTVixRDazFaoN-_5VUHuMJQs_VNCsiUUgp7C0aw__44_Jb7oMEgqtn2sbsVn47hLAIaseK2AjlY4OiCAP0SK19V0S1aymDq6Ga/s700/ZIGGO%20SPORT.png", group-title="Sports Channel",ZIGGO SPORT 1 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-#https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsJAOVJditt5bBGtzDW-N6y6f5dBcVLtdk9kl911lnSY9D4h5ATaFsAOHwYWsX-AHgeU7sQRPTsucN5idPfZC7iVRRTNTVixRDazFaoN-_5VUHuMJQs_VNCsiUUgp7C0aw__44_Jb7oMEgqtn2sbsVn47hLAIaseK2AjlY4OiCAP0SK19V0S1aymDq6Ga/s700/ZIGGO%20SPORT.png", group-title="Sports Channel",ZIGGO SPORT 2 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-#https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd?p=web
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsJAOVJditt5bBGtzDW-N6y6f5dBcVLtdk9kl911lnSY9D4h5ATaFsAOHwYWsX-AHgeU7sQRPTsucN5idPfZC7iVRRTNTVixRDazFaoN-_5VUHuMJQs_VNCsiUUgp7C0aw__44_Jb7oMEgqtn2sbsVn47hLAIaseK2AjlY4OiCAP0SK19V0S1aymDq6Ga/s700/ZIGGO%20SPORT.png", group-title="Sports Channel",ZIGGO SPORT 3 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-#https://da-d436234920010b8800010302000000000000000b.id.cdn.upcbroadband.com/wp/wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000096_019382/go-dash-fhd-avc/NL_000096_019382.mpd?p=web
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsJAOVJditt5bBGtzDW-N6y6f5dBcVLtdk9kl911lnSY9D4h5ATaFsAOHwYWsX-AHgeU7sQRPTsucN5idPfZC7iVRRTNTVixRDazFaoN-_5VUHuMJQs_VNCsiUUgp7C0aw__44_Jb7oMEgqtn2sbsVn47hLAIaseK2AjlY4OiCAP0SK19V0S1aymDq6Ga/s700/ZIGGO%20SPORT.png", group-title="Sports Channel",ZIGGO SPORT 4 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-#https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/go-dash-fhd-avc/NL_000097_019370.mpd?p=web
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsJAOVJditt5bBGtzDW-N6y6f5dBcVLtdk9kl911lnSY9D4h5ATaFsAOHwYWsX-AHgeU7sQRPTsucN5idPfZC7iVRRTNTVixRDazFaoN-_5VUHuMJQs_VNCsiUUgp7C0aw__44_Jb7oMEgqtn2sbsVn47hLAIaseK2AjlY4OiCAP0SK19V0S1aymDq6Ga/s700/ZIGGO%20SPORT.png", group-title="Sports Channel",ZIGGO SPORT 5 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-#https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-fhd-avc/NL_000098_019255.mpd?p=web
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0e6EYt.jpg" group-title="Sports Channel",ESPN
 http://supersonictv.live:8080/775562/877735/22198 
   
