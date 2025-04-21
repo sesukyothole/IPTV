@@ -1654,7 +1654,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744522922/ei/S
 
 ==========TNT SPORT======
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="🔴TNT, Sony & Fox Sports",TNT Sports 1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="🔴TNT & Sony Sports",TNT Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1663,7 +1663,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744522922/ei/S
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="🔴TNT, Sony & Fox Sports",TNT Sports 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="🔴TNT & Sony Sports",TNT Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1671,7 +1671,7 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8u
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xCZT9xz/tntsports3.jpg" group-title="🔴TNT, Sony & Fox Sports",TNT Sports 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xCZT9xz/tntsports3.jpg" group-title="🔴TNT & Sony Sports",TNT Sports 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1680,7 +1680,7 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qv
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?encoding=segmentBase
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFZwwBN/tntsports4.jpg" group-title="🔴TNT, Sony & Fox Sports",TNT Sports 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFZwwBN/tntsports4.jpg" group-title="🔴TNT & Sony Sports",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1692,43 +1692,16 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
          ======SONY=====
 
 
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="🔴TNT, Sony & Fox Sports",SONY TEN 1 HD
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="🔴TNT & Sony Sports",SONY TEN 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="🔴TNT, Sony & Fox Sports",SONY TEN 2 HD
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="🔴TNT & Sony Sports",SONY TEN 2 HD
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="🔴TNT, Sony & Fox Sports",SONY TEN 3 HD
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="🔴TNT & Sony Sports",SONY TEN 3 HD
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="🔴TNT, Sony & Fox Sports", SONY TEN 4 HD
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="🔴TNT & Sony Sports", SONY TEN 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="🔴TNT, Sony & Fox Sports",SONY TEN 5 HD
+#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="🔴TNT & Sony Sports",SONY TEN 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-
-
-##### FOX SPORTS SPORTS CHANNEL #####
-
-
-#EXTINF:-1 group-title="🔴TNT, Sony & Fox Sports" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-logo="https://i.imgur.com/pK67EmR.png" 
-  
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 501 HD" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-logo="https://i.imgur.com/8K1DUJk.jpg" group-title="🔴TNT, Sony & Fox Sports",FOX SPORTS 501 HD
-http://extraott.com:900/live/3162523972/3791698850/42050.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 502 HD" tvg-logo="https://i.imgur.com/F2qKq33.jpg" group-title="🔴TNT, Sony & Fox Sports",FOX SPORTS 502 HD
-http://extraott.com:900/live/3162523972/3791698850/42049.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 503 HD" tvg-logo="https://i.imgur.com/7uAOiTM.jpg" group-title="🔴TNT, Sony & Fox Sports",FOX SPORTS 503 HD
-http://extraott.com:900/live/3162523972/3791698850/42048.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 504 HD" tvg-logo="https://i.imgur.com/RpUVzNg.jpg" group-title="🔴TNT, Sony & Fox Sports",FOX SPORTS 504 HD
-http://extraott.com:900/live/3162523972/3791698850/190999.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 505 HD" tvg-logo="https://i.imgur.com/oWpZhAX.jpg" group-title="🔴TNT, Sony & Fox Sports",FOX SPORTS 505 HD
-http://extraott.com:900/live/3162523972/3791698850/191000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 506 HD" tvg-logo="https://i.imgur.com/vUwlXRk.jpg" group-title="🔴TNT, Sony & Fox Sports",FOX SPORTS 506 HD
-http://extraott.com:900/live/3162523972/3791698850/191001.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 507 HD" tvg-logo="https://i.imgur.com/9DIfMbU.jpg" group-title="🔴TNT, Sony & Fox Sports",FOX SPORTS 507 HD
-http://extraott.com:900/live/3162523972/3791698850/191002.m3u8
 
 
               =====BEIN=====    
@@ -1766,70 +1739,6 @@ http://extraott.com:900/live/3162523972/3791698850/105.m3u8
 http://extraott.com:900/live/3162523972/3791698850/106.m3u8
 
 
-
-                    ========ARENA SPORT
-
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" tvg-logo="https://i.ibb.co.com/S4Tj3vTf/20250128-194658.jpg",Arena Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/satu.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/SXsYc5ct/20250128-194715.jpg",Arena Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/dua.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/KxmsxqKM/20250128-194727.jpg",Arena Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/tiga.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
-
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/qMKx9zF2/20250128-194744.jpg",Arena Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/empat.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/Fq8yRZvT/20250128-194804.jpg",Arena Sport 5 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/lima.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/mFPkb8zR/20250128-194854.jpg",Arena Sport 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/enam.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/nNJ9B8Df/20250128-194910.jpg",Arena Sport 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/tujuh.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/Xxm3NYk0/20250128-194925.jpg",Arena Sport 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/delapan.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/zWkVm2jw/20250128-194943.jpg",Arena Sport 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/sembilan.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/N2b9N7Fy/20250128-195004.jpg",Arena Sport 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/sepuluh.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
 
 
           =======TRUEVISION======
