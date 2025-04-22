@@ -1637,8 +1637,10 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="🔴Premium Sports", TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://api.time.com/wp-content/uploads/2014/05/world-wrestling-entertainment.jpg" group-title="🔴Premium Sports", WWE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744522922/ei/Svr6Z-u9I9S3g8UPxLCCmQo/ip/103.160.205.150/id/U7HYZvYdQ5M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/bui/AccgBcOlVrwQ7Q7VwpcIzTY2Wa0eiQE5NGMc2Rv9cdtAMK-_2xPg3-00sFmF2bLFkKSqAeYzJlFjRBo9/spc/_S3wKkTn2_Yfix_4wuxy6W0GUxDxTxwPxrQU9OrLbjw3WJX9s6tpAKzyuvSwl4H71uBQRDk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANAZhp4GzGAp2-34Bu_bS6Th3-8YyuOJh9RIjjFLyhd2AiA12qtJykTn91ajmAz8EvRO5wEZfvcnWOp2Iq_xxEvXJA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="WWENetwork" tvg-name="WWE Network HD" group-title="🔴Premium Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png",830 WWE Network
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+http://45.159.93.14:8080/144264/661943/22185
 
 ==========TNT SPORT======
 
