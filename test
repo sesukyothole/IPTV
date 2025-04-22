@@ -1,17 +1,14 @@
-#EXTINF:-1 group-title="Entertainment & Music" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVLIVEHD.png",MTV LIVE 2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227369&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Brunei" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
 
-#EXTINF:-1 group-title="Entertainment & Music" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/mtvmusic.png",MTV MUSIC
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227363&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Brunei" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
 
-#EXTINF:-1 group-title="Entertainment & Music" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/GOLDTV-logo.png",GOLD TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227361&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Brunei" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
 
-#EXTINF:-1 group-title="Entertainment & Music" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/4fun.tv_Logo_(2017).svg.png",4FUN.TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227341&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Brunei" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
-#EXTINF:-1 group-title="Entertainment & Music" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Vox_Music.png",VOX MUSIC TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227339&extension=ts
-
-#EXTINF:-1 group-title="Entertainment & Music" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/disco-polo-polska-poland-polen-sticker.png",DISCO POLO MUSIC
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227321&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Brunei" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
