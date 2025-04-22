@@ -1,14 +1,2 @@
-#EXTINF:-1 tvg-id="" group-title="Brunei" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi (Radio)
-https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Brunei" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni (Radio)
-https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Brunei" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan (Radio)
-https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Brunei" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam (Radio)
-https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Brunei" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional (Radio)
-https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Radio" type="radio" tvg-logo="https://assets-mpa.molekfm.audio/media/logo/profile_photo_1000x1000-03.jpg",Molek TV
+https://youtu.be/Zt4PpCBH2Bo
