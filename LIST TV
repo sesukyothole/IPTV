@@ -460,19 +460,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Singapore",Mediacorp Entertainment China
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
-  
-####################################### SINGAPORE RADIO ########################################
-                                                                                                                           
-#EXTINF:-1 tvg-logo="https://iili.io/JmSE4Mx.png" group-title="Singapore",(Radio) 987
-https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
-#EXTINF:-1 tvg-logo="https://iili.io/JmSErnj.png" group-title="Singapore",(Radio) Class 95
-https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac?dist=onlineradiobox
-#EXTINF:-1 tvg-logo="https://iili.io/JmSEscB.png" group-title="Singapore",(Radio) CNA 938
-https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac
-#EXTINF:-1 tvg-logo="https://iili.io/JmSE66Q.png" group-title="Singapore ",(Radio) Money FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
-#EXTINF:-1 tvg-logo="https://iili.io/JmSEUZb.png" group-title="Singapore",(Radio) Ria 89.7
-https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac                                                                                                                          
+                                                                                                                      
 
 ##################### Brunei ###############################
   
@@ -484,22 +472,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
   
 #EXTINF:-1 tvg-id="TV1" ch-number=" " tvg-name="Go Live" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png", Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8|referer=https://www.rtbgo.bn/  
-
-#EXTINF:-1 tvg-id="" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi (Radio)
-https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni (Radio)
-https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan (Radio)
-https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam (Radio)
-https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional (Radio)
-https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
-
 
 ###################################################################################################################################################################
 ############################################  KOREAN ##############################################################################################################
@@ -1290,6 +1262,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=astrogo
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroCricket" ch-number="832" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png",832 Astro Cricket HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
@@ -1344,14 +1324,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 #EXTINF:-1 tvg-id="PremierSports" ch-number="833" tvg-name="Premier Sports HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Sports",833 Premier Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCricket" ch-number="832" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png",832 Astro Cricket HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-name="Sukan RTM" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://Sooka, UnifiTV & RTMKLIK.rtm.gov.my 
@@ -1571,38 +1543,12 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="🔴Premium Sports" tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg",XFC MMA
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8         
 
-
 #EXTINF:-1 group-title="🔴Premium Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network 1 auto
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="🔴Premium Sports",beIN Sports 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="🔴Premium Sports",beIN Sports 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="🔴Premium Sports",beIN Sports 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png" group-title="🔴Premium Sports",beIN Sports 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
-
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="🔴Premium Sports",beIN Sports 5
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="🔴Premium Sports", TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
@@ -1696,43 +1642,6 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="🔴TNT & Sony Sports",SONY TEN 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-
-
-              =====BEIN=====    
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 SD" tvg-logo="https://lo1.in/bss/bsS1.png" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="🔴BEIN SPORTS",BEIN SPORTS 01
-http://extraott.com:900/live/3162523972/3791698850/99.m3u8
-
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 SD" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="🔴BEIN SPORTS",BEIN SPORTS 02
-http://extraott.com:900/live/3162523972/3791698850/100.m3u8
-
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 SD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="🔴BEIN SPORTS",BEIN SPORTS 03
-http://extraott.com:900/live/3162523972/3791698850/101.m3u8
-
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR| BEIN SPORTS 04 SD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="🔴BEIN SPORTS",BEIN SPORTS 04
-http://extraott.com:900/live/3162523972/3791698850/85.m3u8
-
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR| BEIN SPORTS 05 SD" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="🔴BEIN SPORTS",BEIN SPORTS 05
-http://extraott.com:900/live/3162523972/3791698850/86.m3u8
-
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR| BEIN SPORTS 06 SD" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="🔴BEIN SPORTS",BEIN SPORTS 06
-http://extraott.com:900/live/3162523972/3791698850/87.m3u8
-
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR| BEIN SPORTS 07 SD" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="🔴BEIN SPORTS",BEIN SPORTS 07
-http://extraott.com:900/live/3162523972/3791698850/88.m3u8
-
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR| BEIN SPORTS 08 SD" tvg-logo="https://lo1.in/bss/bss8.png" group-title="🔴BEIN SPORTS",BEIN SPORTS 08
-http://extraott.com:900/live/3162523972/3791698850/89.m3u8
-
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR| BEIN SPORTS 09 SD" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="🔴BEIN SPORTS",BEIN SPORTS 09
-http://extraott.com:900/live/3162523972/3791698850/90.m3u8
-
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="AR| BEIN SPORTS 01 ENGLISH SD" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="🔴BEIN SPORTS",BEIN SPORTS 1 ENGLISH
-http://extraott.com:900/live/3162523972/3791698850/105.m3u8
-
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="AR| BEIN SPORTS 02 ENGLISH SD" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="🔴BEIN SPORTS",BEIN SPORTS 2 ENGLISH
-http://extraott.com:900/live/3162523972/3791698850/106.m3u8
-
-
 
 
           =======TRUEVISION======
@@ -1958,6 +1867,34 @@ https://stream.rcs.revma.com/7ww2a4tbv4uvv/4_1eob49p9m5c3j02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOXUAN" tvg-name="GOXUAN" ch-number="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" group-title="Radio",GO XUAN
 https://stream.rcs.revma.com/xt9nhzsbv4uvv/14_1r3t5f7rpkk0a02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Radio" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
+https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Radio" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
+https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Radio" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan
+https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Radio" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
+https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Radio" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
+https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+
+####################################### SINGAPORE RADIO ########################################
+                                                                                                                           
+#EXTINF:-1 tvg-logo="https://iili.io/JmSE4Mx.png" type="radio" group-title="Radio", 987
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
+#EXTINF:-1 tvg-logo="https://iili.io/JmSErnj.png" type="radio" group-title="Radio",Class 95
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://iili.io/JmSEscB.png" type="radio" group-title="Radio",CNA 938
+https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac
+#EXTINF:-1 tvg-logo="https://iili.io/JmSE66Q.png" type="radio" group-title="Radio ",Money FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
+#EXTINF:-1 tvg-logo="https://iili.io/JmSEUZb.png" type="radio" group-title="Radio",Ria 89.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac      
 
 #EXTINF:-1 tvg-id="Class95" group-title="Radio" tvg-logo="https://aqfadtv.xyz/logos/Class95.png",Class 95
 https://22903.live.streamtheworld.com/CLASS95_PREM.aac
