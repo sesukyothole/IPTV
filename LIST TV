@@ -190,9 +190,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 #EXTINF:-1 tvg-id="rtm_borak" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="Sooka, UnifiTV & RTMKLIK", RTM Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 
-#EXTINF:-1 tvg-id="153.rtmklik" tvg-logo="https://rtm-images.glueapi.io/250x0/live_channel/BTL2025.png" group-title="Sooka, UnifiTV & RTMKLIK", RTM Borak Tengah Lapar Masuk U (RTMKlik)
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=13669
-
 
 ###################################################################################################################################################################
 ####################################### CHINESE ###################################################################################################################
