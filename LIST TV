@@ -81,7 +81,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-title="Malaysia",Astro Prima
 https://l18.dp.sooka.my/1000/linear/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="118 Prima (B)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-title="MALAYSIA",Astro Prima SD
+#EXTINF:-1 tvg-id="" tvg-name="118 Prima" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-title="Malaysia",Astro Prima SD
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
