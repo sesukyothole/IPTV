@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" group-title="Radio" type="radio" tvg-logo="https://assets-mpa.molekfm.audio/media/logo/profile_photo_1000x1000-03.jpg",Molek TV
 https://youtu.be/Zt4PpCBH2Bo
+
+
+
+#EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="Malaysia Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
+https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
