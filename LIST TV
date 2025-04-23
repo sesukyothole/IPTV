@@ -5,6 +5,8 @@ Isi url dalam application ott ikut step tutorial. Bukan tekan link ni ya! :)
 #EXTINF:-1 tvg-id="OTTMYID" tvg-name="Tidak boleh dijual beli." tvg-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Playlist ini adalah percuma sepenuhnya!",Not For Sale!
 https://drive.usercontent.google.com/download?id=1k0vSrua8nBqYCoHKFctBawATpt36YMOZ&export=download
 
+#EXTINF:-1 tvg-id="OTTMYID" tvg-name="Tidak boleh dijual beli." tvg-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Playlist ini adalah percuma sepenuhnya!",Jom join telegram community!
+https://drive.usercontent.google.com/download?id=1k0vSrua8nBqYCoHKFctBawATpt36YMOZ&export=download
 
 ==========MALAYSIA==========
 
@@ -537,12 +539,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
-#EXTINF:-1 group-title="Entertainment & Music" tvg-name="TV " tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC HD 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
-https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 group-title="Entertainment & Music" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/thumbnail.jpg" tvg-id="",MTV Flow Latino
@@ -908,6 +904,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-name="TV " tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
 #EXTINF:-1 tvg-id="Lifetime" ch-number="703" tvg-name="Lifetime HD" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="Documentary",703 Lifetime (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
