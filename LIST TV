@@ -84,7 +84,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 https://l18.dp.sooka.my/1000/linear/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="118 Prima" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-title="Malaysia",Astro Prima SD
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
