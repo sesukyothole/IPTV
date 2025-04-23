@@ -522,18 +522,18 @@ https://jmp2.uk/sam-USAJ3000013FJ.m3u8
 
 
 ###################################################################################################################################################################
-#############################################  Entertainment & Music ################################################################################################
+#############################################  Music Channel ################################################################################################
 ###################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wZnQzyTs/ott-navigator-icon.png" group-title="Entertainment",
 
-#EXTINF:-1 tvg-id="MTVLive" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="Entertainment & Music",718 MTV Live
+#EXTINF:-1 tvg-id="MTVLive" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="Music Channel",718 MTV Live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IvlkptaSfM26SC53XN/xkA", "kid":"OsJUKk9750ZjPbB2R0UXEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
-#EXTINF:-1 tvg-id="HITSNow" group-title="Entertainment & Music" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", ch-number="702",702 HITS Now
+#EXTINF:-1 tvg-id="HITSNow" group-title="Music Channel" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", ch-number="702",702 HITS Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5110
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -541,58 +541,58 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="Entertainment & Music" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/thumbnail.jpg" tvg-id="",MTV Flow Latino
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/thumbnail.jpg" tvg-id="",MTV Flow Latino
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DRbqBkKBxosMW817-K66NdyobO9RwfxdpD18miEG-WEBeTyEqi7IVTTFgFI-nB7JasEk=w240-h480" group-title="Entertainment & Music",MIC TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DRbqBkKBxosMW817-K66NdyobO9RwfxdpD18miEG-WEBeTyEqi7IVTTFgFI-nB7JasEk=w240-h480" group-title="Music Channel",MIC TV
 https://v2.siar.us/mic/live/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZbDC2h2l8cNdnXt4Q4Hgu_r1rvhBOpmGLR8k9jUwmA&s" group-title="Entertainment & Music",New K-Pop
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZbDC2h2l8cNdnXt4Q4Hgu_r1rvhBOpmGLR8k9jUwmA&s" group-title="Music Channel",New K-Pop
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38=w240-h480" group-title="Entertainment & Music",K-Pop TVPlay
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38=w240-h480" group-title="Music Channel",K-Pop TVPlay
 https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8|user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="Entertainment & Music",MTV Biggest Pop
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="Music Channel",MTV Biggest Pop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
 
-#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Entertainment & Music",Vevo 2K
+#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music Channel",Vevo 2K
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
 
-#EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Entertainment & Music",Vevo '90s
+#EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music Channel",Vevo '90s
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
 
-#EXTINF:-1 channel-id="USBD120002431" tvg-id="USBD120002431" tvg-chno="4400" tvg-name="Vevo 2010s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20241112T001825SQUARE.png" group-title="Entertainment & Music", Vevo 2010s
+#EXTINF:-1 channel-id="USBD120002431" tvg-id="USBD120002431" tvg-chno="4400" tvg-name="Vevo 2010s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20241112T001825SQUARE.png" group-title="Music Channel", Vevo 2010s
 https://jmp2.uk/sam-USBD120002431.m3u8
 
-#EXTINF:-1 group-title="Entertainment & Music" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVLIVEHD.png",MTV LIVE 2
+#EXTINF:-1 group-title="Music Channel" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVLIVEHD.png",MTV LIVE 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227369&extension=ts
 
-#EXTINF:-1 group-title="Entertainment & Music" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/mtvmusic.png",MTV MUSIC
+#EXTINF:-1 group-title="Music Channel" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/mtvmusic.png",MTV MUSIC
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227363&extension=ts
 
-#EXTINF:-1 group-title="Entertainment & Music" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/4fun.tv_Logo_(2017).svg.png",4FUN.TV
+#EXTINF:-1 group-title="Music Channel" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/4fun.tv_Logo_(2017).svg.png",4FUN.TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227341&extension=ts
 
-#EXTINF:-1 group-title="Entertainment & Music" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Vox_Music.png",VOX MUSIC TV
+#EXTINF:-1 group-title="Music Channel" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Vox_Music.png",VOX MUSIC TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227339&extension=ts
 
-#EXTINF:-1 channel-id="USBC3600015GF" tvg-id="USBC3600015GF" tvg-chno="4406" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20241112T001856SQUARE.png" group-title="Entertainment & Music", Vevo Latino
+#EXTINF:-1 channel-id="USBC3600015GF" tvg-id="USBC3600015GF" tvg-chno="4406" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20241112T001856SQUARE.png" group-title="Music Channel", Vevo Latino
 https://jmp2.uk/sam-USBC3600015GF.m3u8
 
-#EXTINF:-1 channel-id="USBD3500016NH" tvg-id="USBD3500016NH" tvg-chno="4454" tvg-name="Stingray Today's K-Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20240520T212852SQUARE.png" group-title="Entertainment & Music", Stingray Today's K-Pop
+#EXTINF:-1 channel-id="USBD3500016NH" tvg-id="USBD3500016NH" tvg-chno="4454" tvg-name="Stingray Today's K-Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20240520T212852SQUARE.png" group-title="Music Channel", Stingray Today's K-Pop
 https://jmp2.uk/sam-USBD3500016NH.m3u8
 
-#EXTINF:-1 channel-id="USBD3500009Y3" tvg-id="USBD3500009Y3" tvg-chno="4464" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20240520T212854SQUARE.png" group-title="Entertainment & Music", Stingray Today's Latin Pop
+#EXTINF:-1 channel-id="USBD3500009Y3" tvg-id="USBD3500009Y3" tvg-chno="4464" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20240520T212854SQUARE.png" group-title="Music Channel", Stingray Today's Latin Pop
 https://jmp2.uk/sam-USBD3500009Y3.m3u8
 
-#EXTINF:-1 tvg-id="activa" tvg-logo="https://i.ibb.co.com/tp2z5Qmw/Activatv.png" group-title="Entertainment & Music",Activa TV
+#EXTINF:-1 tvg-id="activa" tvg-logo="https://i.ibb.co.com/tp2z5Qmw/Activatv.png" group-title="Music Channel",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 ##################################################################################################################################################################
