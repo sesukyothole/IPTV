@@ -727,6 +727,9 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="149 Galaxy Premium" tvg-logo="https://static.vecteezy.com/system/resources/previews/003/189/953/non_2x/galaxy-logo-icon-design-illustration-vector.jpg" group-title="Movies",Galaxy Premium
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
+
 ###################################################################################################################################################################
 #################################  Movie 24 Hour  ###################################################################################################################
 ###################################################################################################################################################################
@@ -1911,6 +1914,9 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Radio" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" type="radio" tvg-name="RADIO IKIM" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/ikim.png" group-title="Radio",IkimFM
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4572.ts
 
 ####################################### SINGAPORE RADIO ########################################
                                                                                                                            
