@@ -4,7 +4,7 @@ https://youtu.be/Zt4PpCBH2Bo
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e8d2d5KQNST_series.jpg" group-title="● Dia Imamku"Episode 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e8d2d5KQNST_series.jpg" group-title="● Dia Imamku",Episode 1
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU0NzUyMTksImlzcyI6IlZSIiwiZXhwIjoxNzQ1NTMzODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMWRlODIwNjEtOTg4NC00MTNjLTg1NmUtMWFmYTk0NTg2YTlhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZDBhMTQ3NzdlMDA0YzZkZDNhYTdmYmIzMWRhOWRjMzYtZmU4NDA5YzU0Zjc4MzQ4YjM5M2UtMSJ9.-uWDFnF8-7rE9q8PfKnRFZDwKP-M_2oP5pNVxDxH3-g"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
