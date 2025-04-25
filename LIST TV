@@ -556,7 +556,7 @@ https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="99372" tvg-logo="https://iili.io/JmnytO7.png" group-title="Music Channel",Trace Latina
+#EXTINF:-1 tvg-id="99372" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="Music Channel",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
 
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Features
