@@ -103,7 +103,7 @@ https://l16.dp.sooka.my/1004/linear/index.mpd
 #https://l16.dp.sooka.my/1004/linear/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="Malaysia",Astro Citra
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 #http://www.geocities.ws/wahyuiptv/AstroCitra.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
