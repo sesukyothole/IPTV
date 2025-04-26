@@ -72,7 +72,10 @@ https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1 tvg-id="118" ch-number="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png" group-logo="" group-title="Malaysia",Inspirasi 
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 
-++++++++++CHANNEL LIMITED++++++++++
+###################################################################################################################################################################
+####################################### LIMITED ###################################################################################################################
+###################################################################################################################################################################
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
@@ -103,7 +106,7 @@ https://l16.dp.sooka.my/1004/linear/index.mpd
 #https://l16.dp.sooka.my/1004/linear/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="Malaysia",Astro Citra
-#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 #http://www.geocities.ws/wahyuiptv/AstroCitra.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -112,8 +115,7 @@ https://l16.dp.sooka.my/1004/linear/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Malaysia"  ch-number="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",Astro Citra HD
-https://akutv.info/citraabahkau
-#https://linears-playback.astro.com.my/vsg/41UcvWcFXKaFrtedyTSQBNYGcYFdFuC_RMiwnfOP7__5k=PFyB/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+#https://akutv.info/citraabahkau
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
