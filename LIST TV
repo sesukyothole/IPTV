@@ -98,7 +98,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" group-title="Malaysia",Astro Ria
 https://l16.dp.sooka.my/1004/linear/index.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" group-title="Malaysia",Astro Ria
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" group-title="Malaysia",Astro Ria SD
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2678.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
