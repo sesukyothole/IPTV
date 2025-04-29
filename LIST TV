@@ -87,7 +87,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 https://l18.dp.sooka.my/1000/linear/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="118 Prima" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-title="Malaysia",Astro Prima SD
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
+https://drive.usercontent.google.com/download?id=1jpTfOKUz9dNWoo0TvA0ThG9ETH8bP4Li&export=download
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
@@ -99,18 +99,13 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
 https://l16.dp.sooka.my/1004/linear/index.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" group-title="Malaysia",Astro Ria SD
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2678.ts
+https://drive.usercontent.google.com/download?id=1jpTfOKUz9dNWoo0TvA0ThG9ETH8bP4Li&export=download
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Malaysia"  ch-number="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",Astro Citra
-https://akutv.info/citraabahkau
+https://drive.usercontent.google.com/download?id=1jpTfOKUz9dNWoo0TvA0ThG9ETH8bP4Li&export=download
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="Malaysia",Astro Citra SD
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
+https://drive.usercontent.google.com/download?id=1jpTfOKUz9dNWoo0TvA0ThG9ETH8bP4Li&export=download
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
@@ -782,7 +777,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://pbs.twimg.com/profile_images/425874658206810112/tHFn6-91_400x400.jpeg" group-title="Movies",152 Star Movies
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
+https://drive.usercontent.google.com/download?id=1jpTfOKUz9dNWoo0TvA0ThG9ETH8bP4Li&export=download
   
 #EXTINF:-1 tvg-id="AXN" ch-number="701" tvg-name="AXN HD" tvg-logo="https://sledovanitv.cz/cache/logos256/axn.png" group-title="Movies",701 AXN 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -886,7 +881,7 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="149 Galaxy Premium" tvg-logo="https://static.vecteezy.com/system/resources/previews/003/189/953/non_2x/galaxy-logo-icon-design-illustration-vector.jpg" group-title="Movies",Galaxy Premium
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
+https://drive.usercontent.google.com/download?id=1jpTfOKUz9dNWoo0TvA0ThG9ETH8bP4Li&export=download
 
 ###################################################################################################################################################################
 #################################  Movie 24 Hour  ###################################################################################################################
@@ -1850,9 +1845,6 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Radio" type="radio" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" type="radio" tvg-name="RADIO IKIM" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/ikim.png" group-title="Radio",IkimFM
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4572.ts
 
 ####################################### SINGAPORE RADIO ########################################
                                                                                                                            
