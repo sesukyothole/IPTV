@@ -1562,9 +1562,6 @@ https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 #https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="Other Sports", TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WWENetwork" tvg-name="WWE Network HD" group-title="Other Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png",830 WWE Network
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
